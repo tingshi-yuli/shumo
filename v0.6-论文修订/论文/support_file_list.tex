@@ -1,0 +1,18 @@
+支撑材料保留主程序、四份结果表、22份数值对照记录及已有验证记录，并按原目录层级附上题给输入与结果模板。较大的主轨迹缓存不随精简包分发，可按README重建。结果状态保留四位小数，实际终点采用未舍入状态判定；已有验证记录不代表本次再次运行。
+\begin{longtable}{>{\raggedright\arraybackslash}p{.45\textwidth}>{\raggedright\arraybackslash}p{.47\textwidth}}
+\caption{支撑材料文件及用途}\label{tab:support-files}\\
+\toprule 文件或目录&内容\\\midrule
+\texttt{README.md}\newline\texttt{reproduce.py}&环境、目录说明与统一复现入口\\
+\texttt{改进模型/result1.xlsx}\newline\texttt{改进模型/result2.xlsx}&温度与水分浓度，每1秒、0.1厘米\\
+\texttt{改进模型/result3.xlsx}\newline\texttt{改进模型/result4.xlsx}&水分浓度，每60秒、0.1厘米；问题4另有表面及半径\\
+\texttt{改进模型/*.py}&主求解、输出、绘图、独立参考与验证源码\\
+\texttt{改进模型/requirements*.txt}&依赖范围及原运行环境的锁定版本\\
+\texttt{改进模型/p2/runs/*.json}&22个数值对照算例的配置、终点和状态\\
+\texttt{改进模型/verification.json}&续接工作区已有Excel回读记录；复算时更新\\
+\texttt{科学假设诊断.json}&条件性密度质量与环境覆盖诊断\\
+\texttt{附件/附件1.xlsx}\newline\texttt{附件/附件2.xlsx}\newline\texttt{附件/附件3/result*.xlsx}&原题环境、收缩数据及四份空结果模板\\
+\texttt{验证/}&已有Excel与P2汇总的留存件，以及六条引用核对来源\\
+\texttt{文件来源.json}\newline\texttt{SHA256SUMS.txt}&逐文件来源与整理时的字节指纹清单\\
+\bottomrule
+\end{longtable}
+表\ref{tab:support-files}列出与模型计算和结果输出对应的支撑文件。

@@ -1,0 +1,5 @@
+# Versions used for the 2026-09-11 handoff verification (Python 3.12).
+numpy==2.3.5
+scipy==1.15.3
+openpyxl==3.1.5
+matplotlib==3.10.3
