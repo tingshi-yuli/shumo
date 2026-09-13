@@ -1,0 +1,63 @@
+{
+  "checked_date": "2026-09-13",
+  "method": "阅读DOI、出版方页面与出版方提交的Crossref元数据；正文仅检查引用位置和语境，未构建论文",
+  "bibliography": "论文/references.bib",
+  "bibliography_changed": false,
+  "reason": "六条作者、题名、期刊年或文档版本未发现实际错误；仅保留现有合法缩写和内部引用键。",
+  "citations": [
+    {
+      "key": "stevens2010",
+      "sources": ["https://doi.org/10.3970/cmes.2010.055.111", "https://www.techscience.com/CMES/v55n2/25454"],
+      "authors": "David Stevens; Henry Power",
+      "title": "A Scalable Meshless Formulation Based on RBF Hermitian Interpolation for 3D Nonlinear Heat Conduction Problems",
+      "publication": "Computer Modeling in Engineering & Sciences 55(2), 111–146 (2010)",
+      "citation_context": "非线性系数积分变换的相关研究；正文明确不是直接复用其网格自由法，引用范围合理。"
+    },
+    {
+      "key": "ramallo2011",
+      "sources": ["https://doi.org/10.1111/j.1745-4530.2011.00654.x", "https://api.crossref.org/works/10.1111%2Fj.1745-4530.2011.00654.x"],
+      "publisher_attempt": "https://onlinelibrary.wiley.com/doi/10.1111/j.1745-4530.2011.00654.x 返回HTTP 403；改读Wiley提交的Crossref记录。",
+      "authors": "L. A. Ramallo; R. H. Mascheroni",
+      "title": "Effect of Shrinkage on Prediction Accuracy of the Water Diffusion Model for Pineapple Drying",
+      "publication": "Journal of Food Process Engineering 36(1), 66–76 (2013)",
+      "date_note": "published-print为2013-02，published-online为2011-09-05。现有year=2013正确；ramallo2011仅为内部引用键，不应据此误改期刊年。",
+      "citation_context": "干燥收缩影响预测的背景证据，不用来量化本题问题3与4时长差的因果贡献。"
+    },
+    {
+      "key": "mahiuddin2018",
+      "sources": ["https://doi.org/10.1111/1541-4337.12375", "https://api.crossref.org/works/10.1111%2F1541-4337.12375"],
+      "publisher_attempt": "https://onlinelibrary.wiley.com/doi/10.1111/1541-4337.12375 返回HTTP 403；改读Wiley提交的Crossref记录。",
+      "authors": "Md Mahiuddin; Md. Imran H. Khan; C. Kumar; M. M. Rahman; M. A. Karim",
+      "title": "Shrinkage of Food Materials During Drying: Current Status and Challenges",
+      "publication": "Comprehensive Reviews in Food Science and Food Safety 17(5), 1113–1126 (2018)",
+      "citation_context": "材料特性、结构和干燥工况影响收缩的综述背景，与正文相符。"
+    },
+    {
+      "key": "comsol_sorption",
+      "sources": ["https://doc.comsol.com/6.3/doc/com.comsol.help.heat/heat_ug_interfaces.08.69.html"],
+      "author": "COMSOL AB",
+      "title": "The Equilibrium Moisture Transport in Porous Media Interface",
+      "version": "COMSOL Multiphysics 6.3 Documentation",
+      "citation_context": "官方页面说明相对湿度与含水量通过吸附等温线联系，支持正文不能因kg/kg相同就直接相减的说明。"
+    },
+    {
+      "key": "comsol_latent",
+      "sources": ["https://doc.comsol.com/6.3/doc/com.comsol.help.heat/heat_ug_multiphysics_features.12.07.html"],
+      "author": "COMSOL AB",
+      "title": "Heat and Moisture",
+      "version": "COMSOL Multiphysics 6.3 Documentation",
+      "citation_context": "官方页面说明蒸发/凝结潜热源及表面、体积耦合；支持正文对未引入潜热闭合的讨论，不证明本模型误差界。"
+    },
+    {
+      "key": "comsol_air",
+      "sources": ["https://doc.comsol.com/6.4/doc/com.comsol.help.heat/heat_ug_modeling.06.15.html"],
+      "author": "COMSOL AB",
+      "title": "Moist Air Properties",
+      "version": "COMSOL Multiphysics 6.4 Documentation",
+      "citation_context": "官方页面区分humidity ratio、vapor mass fraction及各介质含水量，支持正文对湿度质量基准的辨析。"
+    }
+  ],
+  "citation_key_mapping": "读取时正文引用键恰为以上六键，均能对应bib条目；正文main.tex由主代理独占，未作修改。",
+  "web_document_year_note": "三个COMSOL页面未显示明确发布日期，保留版本与原访问日期，不凭产品版本补造出版年。",
+  "validation_commands_executed": []
+}

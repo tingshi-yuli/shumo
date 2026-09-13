@@ -1,0 +1,41 @@
+\begin{thebibliography}{1}
+
+\bibitem{stevens2010}
+D.~Stevens and H.~Power.
+\newblock A scalable meshless formulation based on {RBF} hermitian
+  interpolation for 3d nonlinear heat conduction problems.
+\newblock {\em Computer Modeling in Engineering \& Sciences}, 55(2):111--146,
+  2010.
+
+\bibitem{comsol_sorption}
+{COMSOL AB}.
+\newblock The equilibrium moisture transport in porous media interface.
+\newblock COMSOL Multiphysics 6.3 Documentation.
+\newblock Accessed 2026-09-12.
+
+\bibitem{comsol_air}
+{COMSOL AB}.
+\newblock Moist air properties.
+\newblock COMSOL Multiphysics 6.4 Documentation.
+\newblock Accessed 2026-09-12.
+
+\bibitem{comsol_latent}
+{COMSOL AB}.
+\newblock Heat and moisture.
+\newblock COMSOL Multiphysics 6.3 Documentation.
+\newblock Accessed 2026-09-12.
+
+\bibitem{ramallo2011}
+L.~A. Ramallo and R.~H. Mascheroni.
+\newblock Effect of shrinkage on prediction accuracy of the water diffusion
+  model for pineapple drying.
+\newblock {\em Journal of Food Process Engineering}, 36(1):66--76, 2013.
+
+\bibitem{mahiuddin2018}
+M.~Mahiuddin, M.~I.~H. Khan, C.~Kumar, M.~M. Rahman, and M.~A. Karim.
+\newblock Shrinkage of food materials during drying: Current status and
+  challenges.
+\newblock {\em Comprehensive Reviews in Food Science and Food Safety},
+  17(5):1113--1126, 2018.
+
+\end{thebibliography}

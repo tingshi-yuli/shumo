@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "contest": "cumcm",
+  "main_tex": "main.tex",
+  "template": {
+    "path": "D:\\知识库\\比赛\\26年数模\\数模项目_续接\\工具依赖\\math-modeling-v1.3.0\\tools\\latex\\assets\\templates\\cumcm",
+    "source": "https://www.mcm.edu.cn/html_cn/node/4cd596519c9eb9fbd866398f6df0caa3.html",
+    "version": "v1.3.0内置排版基线；非官方模板；按2026官方规则核验",
+    "sha256": "b58d44f4941ddffe4f19a0b78684d3e6015c2f72b8d5354fe2b2b685202b6186"
+  },
+  "template_files": {
+    "main.tex": "bcdcb449176640a60ff540210aa7b7a64d6a5e77465d5d06877bdb46d44de276",
+    "references.bib": "e19b906154ccbe9f86d9f9c550cda438357622483e23ceb0d1ba8900ca768a69"
+  },
+  "resource_bindings": [
+    {
+      "source": "支撑材料/改进模型/model.py",
+      "destination": "code/model.py",
+      "sha256": "6f48112ba4e60258c0f8991ba59a96386d400b6ce71ad9e5f3ecafacaa8ca1eb",
+      "hash_mode": "content",
+      "bound_at": "2026-09-13T03:15:34.998496+00:00"
+    },
+    {
+      "source": "支撑材料/改进模型/run_all.py",
+      "destination": "code/run_all.py",
+      "sha256": "c4f5ac9c9ca4efcbdd8d72442a2100537d1854c8b08e49aab785d7343bb81b64",
+      "hash_mode": "content",
+      "bound_at": "2026-09-13T03:15:35.216714+00:00"
+    },
+    {
+      "source": "支撑材料/改进模型/run_study.py",
+      "destination": "code/run_study.py",
+      "sha256": "f5d82200b3d9bc9188a266551ed696c2d0608266a4a199c5b023b5a5f71a760c",
+      "hash_mode": "content",
+      "bound_at": "2026-09-13T03:15:35.448050+00:00"
+    },
+    {
+      "source": "支撑材料/改进模型/build_outputs.py",
+      "destination": "code/build_outputs.py",
+      "sha256": "574793069071c293e94a78b8e4c9a94c925508942c872bcd32683482fbd3c42c",
+      "hash_mode": "content",
+      "bound_at": "2026-09-13T03:15:57.399187+00:00"
+    },
+    {
+      "source": "支撑材料/改进模型/make_figures.py",
+      "destination": "code/make_figures.py",
+      "sha256": "fb5c63e070aa9986ae677cbf22be73ad99e48d62a5d079724ca29ada4f263437",
+      "hash_mode": "content",
+      "bound_at": "2026-09-13T03:15:57.645175+00:00"
+    },
+    {
+      "source": "支撑材料/改进模型/p2_reference.py",
+      "destination": "code/p2_reference.py",
+      "sha256": "551543d0ef4d83b876623d07eb11c1dfd302af3186051ec7c8abb018d15981a8",
+      "hash_mode": "content",
+      "bound_at": "2026-09-13T03:15:57.836615+00:00"
+    },
+    {
+      "source": "支撑材料/改进模型/p2_report.py",
+      "destination": "code/p2_report.py",
+      "sha256": "324a4c6ac99d607e45f1654fd90944d55dfd70be48bceb1e3ec2d2ddf5b77756",
+      "hash_mode": "content",
+      "bound_at": "2026-09-13T03:15:58.027094+00:00"
+    },
+    {
+      "source": "支撑材料/改进模型/p2_study.py",
+      "destination": "code/p2_study.py",
+      "sha256": "afa7982ad4c584bd52509eb1cd391f10afcf3fa55c105e94db709ecf83960dfd",
+      "hash_mode": "content",
+      "bound_at": "2026-09-13T03:15:58.234188+00:00"
+    },
+    {
+      "source": "支撑材料/改进模型/tests.py",
+      "destination": "code/tests.py",
+      "sha256": "262f412b7cfb9a9202d9b66834d9d7ecd625be1c683247090d60aeb761e0ea6c",
+      "hash_mode": "content",
+      "bound_at": "2026-09-13T03:15:58.422098+00:00"
+    },
+    {
+      "source": "支撑材料/改进模型/verify_outputs.py",
+      "destination": "code/verify_outputs.py",
+      "sha256": "4243d43005a94ccd7eda80e1baf6a3bcbe84ccfa4965927dc934c389ed65fcc6",
+      "hash_mode": "content",
+      "bound_at": "2026-09-13T03:15:58.612208+00:00"
+    },
+    {
+      "source": "支撑材料/改进模型/audit_assumptions.py",
+      "destination": "code/audit_assumptions.py",
+      "sha256": "64a9f0acfbe76de367a7e8bb7baac00163e36be5f7aaa685d11a08df2fe4e62a",
+      "hash_mode": "content",
+      "bound_at": "2026-09-13T03:15:58.817236+00:00"
+    },
+    {
+      "source": "论文图源",
+      "destination": "figs",
+      "sha256": "3f2a653c4f304a42f0b519883c879f0ac88c03426ba6364c42435e68347c9b9a",
+      "hash_mode": "tree",
+      "bound_at": "2026-09-13T03:42:06.130443+00:00"
+    }
+  ],
+  "created_at": "2026-09-12T09:52:49.021830+00:00"
+}

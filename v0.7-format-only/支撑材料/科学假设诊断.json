@@ -1,0 +1,135 @@
+{
+  "status": "diagnostics_completed_not_physical_validation",
+  "assumptions": [
+    "rho(C) conditionally treated as wet bulk density",
+    "fixed length 0.25 m",
+    "nodal annular quadrature",
+    "no new time integration or result overwrite"
+  ],
+  "environment": {
+    "last_observed_s": 14400,
+    "last_values": [
+      50.165,
+      0.04986
+    ],
+    "last_hour_61_point_mean": [
+      49.99893442622951,
+      0.04998754098360656
+    ],
+    "alternative_extension_computed": false
+  },
+  "cases": {
+    "3": {
+      "endpoint_h": 57.16959201388889,
+      "unobserved_environment_hours": 53.16959201388889,
+      "unobserved_environment_fraction": 0.9300327349016548,
+      "conditional_initial_dry_mass_kg": 0.08640707230887533,
+      "conditional_final_dry_mass_kg": 0.1861167697041161,
+      "conditional_final_water_mass_kg": 0.023085336965179618,
+      "conditional_dry_mass_ratio": 2.153952966243471,
+      "conditional_dry_mass_drift_percent": 115.39529662434708,
+      "conditional_endpoint_bound": {
+        "type": "lower",
+        "dry_mass_ratio": 2.1157223518515225
+      },
+      "radius_cm": 2.0,
+      "mean_dry_basis_C": 0.12430459088380949,
+      "volume_ratio_under_fixed_length": 1.0
+    },
+    "4": {
+      "endpoint_h": 50.824422200520836,
+      "unobserved_environment_hours": 46.824422200520836,
+      "unobserved_environment_fraction": 0.9212976788163268,
+      "conditional_initial_dry_mass_kg": 0.08756636424583382,
+      "conditional_final_dry_mass_kg": 0.07795996021663863,
+      "conditional_final_water_mass_kg": 0.00919915699312903,
+      "conditional_dry_mass_ratio": 0.8902957304219441,
+      "conditional_dry_mass_drift_percent": -10.97042695780559,
+      "conditional_endpoint_bound": {
+        "type": "upper",
+        "dry_mass_ratio": 0.9815866599292571
+      },
+      "radius_cm": 1.2,
+      "mean_dry_basis_C": 0.11839774040765913,
+      "volume_ratio_under_fixed_length": 0.36
+    }
+  },
+  "scans": {
+    "3": {
+      "hours": [
+        [
+          64.67628038194445,
+          57.249552951388885,
+          54.49326388888889
+        ],
+        [
+          64.6308984375,
+          57.16959201388889,
+          54.36736979166667
+        ],
+        [
+          64.60896701388889,
+          57.13068576388889,
+          54.30553385416667
+        ]
+      ],
+      "min_h": 54.30553385416667,
+      "max_h": 64.67628038194445,
+      "heat_only_range_h": 0.11886718749999403,
+      "mass_only_range_h": 10.263528645833325,
+      "interpretation": "deterministic scenarios; no probability model or confidence coverage"
+    },
+    "4": {
+      "hours": [
+        [
+          54.1887451171875,
+          50.899190266927086,
+          49.91558024088542
+        ],
+        [
+          54.13272298177083,
+          50.824422200520836,
+          49.828267415364586
+        ],
+        [
+          54.106669108072914,
+          50.78915608723958,
+          49.78643798828125
+        ]
+      ],
+      "min_h": 49.78643798828125,
+      "max_h": 54.1887451171875,
+      "heat_only_range_h": 0.11003417968750284,
+      "mass_only_range_h": 4.304455566406247,
+      "interpretation": "deterministic scenarios; no probability model or confidence coverage"
+    }
+  },
+  "q3_minus_q4_h": 6.345169813368052,
+  "attribution": "Both material laws and geometry differ; difference is not a pure shrinkage effect.",
+  "source_sha256": "64a9f0acfbe76de367a7e8bb7baac00163e36be5f7aaa685d11a08df2fe4e62a",
+  "model_sha256": "6f48112ba4e60258c0f8991ba59a96386d400b6ce71ad9e5f3ecafacaa8ca1eb",
+  "input_sha256": {
+    "附件1.xlsx": "7ef32870abeef420b89560b2530ff60dfe4255917805151d89988d0311af9dd7",
+    "附件2.xlsx": "5563acbfa4b4afb10cc6c03e2207e5369bf39da27576672aff14cc5c32e704af"
+  },
+  "evidence_sha256": {
+    "q3_h1_hm1.json": "3eef860529c52ae0c79abb4d5941cc75329af774476864f7e077d26c05a321d9",
+    "q4_h1_hm1.json": "c5962a04e12c5e661891375546ff4d5dbf39fbd7767fa61c965a2e1253e9ecdb",
+    "q3_h0.5_hm0.5.json": "dd791a46abcc2335123a4627d2985e26e4d47840e61dfd67b0a6788f37dd39bf",
+    "q3_h0.5_hm1.json": "f080a6d1dadf7a8aecf048fa7b0672f852f995afcff8b16cb8075c350b9a8b82",
+    "q3_h0.5_hm2.json": "6374c1c8e184a28b035b9cbcfa9bc03a61b82ffdb49986e7c7ce9bc7846b6ca7",
+    "q3_h1_hm0.5.json": "f8956312dda11ec46e7c85cc813ed4d725413766ae505bde3d3a85e74ec880e3",
+    "q3_h1_hm2.json": "7535b44922a04a7be3a41c008eca15e60e5d2cc34882500d58695a89cce9b028",
+    "q3_h2_hm0.5.json": "c29791a1a979c2b0c891dce512049e5ec4523ce238cbd5c05070f2078034566f",
+    "q3_h2_hm1.json": "7f67ae293c2b2f215738e618bea494fecf6285ec6da74677d188d76d879960c4",
+    "q3_h2_hm2.json": "b8398d1628b5fcf81502baa713dbcaf69b6a60df3701ec518d90e2c8eefd93b3",
+    "q4_h0.5_hm0.5.json": "35171391901621de5dcc801a189e1c10866a7368dfabdc9374da37e54ca773fd",
+    "q4_h0.5_hm1.json": "5c8f02aaa402dc2a33670b21870bdc66308e19b1b5a2d326bf704d482cfe04ca",
+    "q4_h0.5_hm2.json": "d43ca262bbd465ef89247a272d6ee8c061282cfd53b59d57921672b7b0c717ca",
+    "q4_h1_hm0.5.json": "48bc3be831866b19c1e3eaee3c379f9186867c6730b0823ba2c9e78f90cb52fc",
+    "q4_h1_hm2.json": "8db306b85c498db2c76349a7850027c143a1a03d66c82203c3e658b1243c2f63",
+    "q4_h2_hm0.5.json": "5120616f2435455844b1ddef31f41cdcabbad4d046699e47a0de0b67a888689e",
+    "q4_h2_hm1.json": "505e03fc1b9154bed9e430106a78822fd57005db374863654042451d5cde1863",
+    "q4_h2_hm2.json": "ccb0d9652d8a2a09671eaa974244989a1a70a8115fad19d9cd9068c05bb9f150"
+  }
+}

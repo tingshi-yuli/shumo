@@ -1,0 +1,2920 @@
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.16)  13 SEP 2026 13:34
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(d:/texlive/2026/texmf-dist/tex/latex/ctex/ctexart.cls
+(d:/texlive/2026/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+File: ctexbackend.cfg 2022/07/14 v2.5.10 Backend configuration file (CTEX)
+)
+(d:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2026-01-19 L3 programming layer (loader) 
+
+(d:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count271
+\g__pdfannot_backend_int=\count272
+\g__pdfannot_backend_link_int=\count273
+))
+Document Class: ctexart 2022/07/14 v2.5.10 Chinese adapter for class article (C
+TEX)
+(d:/texlive/2026/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
+)
+(d:/texlive/2026/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
+)
+(d:/texlive/2026/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(d:/texlive/2026/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+LaTeX Encoding Info:    Redeclaring text command \capitalcedilla (encoding TS1)
+ on input line 49.
+LaTeX Encoding Info:    Redeclaring text command \capitalogonek (encoding TS1) 
+on input line 52.
+LaTeX Encoding Info:    Redeclaring text command \capitalgrave (encoding TS1) o
+n input line 55.
+LaTeX Encoding Info:    Redeclaring text command \capitalacute (encoding TS1) o
+n input line 56.
+LaTeX Encoding Info:    Redeclaring text command \capitalcircumflex (encoding T
+S1) on input line 57.
+LaTeX Encoding Info:    Redeclaring text command \capitaltilde (encoding TS1) o
+n input line 58.
+LaTeX Encoding Info:    Redeclaring text command \capitaldieresis (encoding TS1
+) on input line 59.
+LaTeX Encoding Info:    Redeclaring text command \capitalhungarumlaut (encoding
+ TS1) on input line 60.
+LaTeX Encoding Info:    Redeclaring text command \capitalring (encoding TS1) on
+ input line 61.
+LaTeX Encoding Info:    Redeclaring text command \capitalcaron (encoding TS1) o
+n input line 62.
+LaTeX Encoding Info:    Redeclaring text command \capitalbreve (encoding TS1) o
+n input line 63.
+LaTeX Encoding Info:    Redeclaring text command \capitalmacron (encoding TS1) 
+on input line 64.
+LaTeX Encoding Info:    Redeclaring text command \capitaldotaccent (encoding TS
+1) on input line 65.
+LaTeX Encoding Info:    Redeclaring text command \t (encoding TS1) on input lin
+e 66.
+LaTeX Encoding Info:    Redeclaring text command \capitaltie (encoding TS1) on 
+input line 67.
+LaTeX Encoding Info:    Redeclaring text command \newtie (encoding TS1) on inpu
+t line 68.
+LaTeX Encoding Info:    Redeclaring text command \capitalnewtie (encoding TS1) 
+on input line 69.
+LaTeX Encoding Info:    Redeclaring text symbol \textcapitalcompwordmark (encod
+ing TS1) on input line 70.
+LaTeX Encoding Info:    Redeclaring text symbol \textascendercompwordmark (enco
+ding TS1) on input line 71.
+LaTeX Encoding Info:    Redeclaring text symbol \textquotestraightbase (encodin
+g TS1) on input line 72.
+LaTeX Encoding Info:    Redeclaring text symbol \textquotestraightdblbase (enco
+ding TS1) on input line 73.
+LaTeX Encoding Info:    Redeclaring text symbol \texttwelveudash (encoding TS1)
+ on input line 74.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreequartersemdash (encod
+ing TS1) on input line 75.
+LaTeX Encoding Info:    Redeclaring text symbol \textleftarrow (encoding TS1) o
+n input line 76.
+LaTeX Encoding Info:    Redeclaring text symbol \textrightarrow (encoding TS1) 
+on input line 77.
+LaTeX Encoding Info:    Redeclaring text symbol \textblank (encoding TS1) on in
+put line 78.
+LaTeX Encoding Info:    Redeclaring text symbol \textdollar (encoding TS1) on i
+nput line 79.
+LaTeX Encoding Info:    Redeclaring text symbol \textquotesingle (encoding TS1)
+ on input line 80.
+LaTeX Encoding Info:    Redeclaring text command \textasteriskcentered (encodin
+g TS1) on input line 81.
+LaTeX Encoding Info:    Redeclaring text symbol \textdblhyphen (encoding TS1) o
+n input line 92.
+LaTeX Encoding Info:    Redeclaring text symbol \textfractionsolidus (encoding 
+TS1) on input line 93.
+LaTeX Encoding Info:    Redeclaring text symbol \textzerooldstyle (encoding TS1
+) on input line 94.
+LaTeX Encoding Info:    Redeclaring text symbol \textoneoldstyle (encoding TS1)
+ on input line 95.
+LaTeX Encoding Info:    Redeclaring text symbol \texttwooldstyle (encoding TS1)
+ on input line 96.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreeoldstyle (encoding TS
+1) on input line 97.
+LaTeX Encoding Info:    Redeclaring text symbol \textfouroldstyle (encoding TS1
+) on input line 98.
+LaTeX Encoding Info:    Redeclaring text symbol \textfiveoldstyle (encoding TS1
+) on input line 99.
+LaTeX Encoding Info:    Redeclaring text symbol \textsixoldstyle (encoding TS1)
+ on input line 100.
+LaTeX Encoding Info:    Redeclaring text symbol \textsevenoldstyle (encoding TS
+1) on input line 101.
+LaTeX Encoding Info:    Redeclaring text symbol \texteightoldstyle (encoding TS
+1) on input line 102.
+LaTeX Encoding Info:    Redeclaring text symbol \textnineoldstyle (encoding TS1
+) on input line 103.
+LaTeX Encoding Info:    Redeclaring text symbol \textlangle (encoding TS1) on i
+nput line 104.
+LaTeX Encoding Info:    Redeclaring text symbol \textminus (encoding TS1) on in
+put line 105.
+LaTeX Encoding Info:    Redeclaring text symbol \textrangle (encoding TS1) on i
+nput line 106.
+LaTeX Encoding Info:    Redeclaring text symbol \textmho (encoding TS1) on inpu
+t line 107.
+LaTeX Encoding Info:    Redeclaring text symbol \textbigcircle (encoding TS1) o
+n input line 108.
+LaTeX Encoding Info:    Redeclaring text command \textcircled (encoding TS1) on
+ input line 109.
+LaTeX Encoding Info:    Redeclaring text symbol \textohm (encoding TS1) on inpu
+t line 115.
+LaTeX Encoding Info:    Redeclaring text symbol \textlbrackdbl (encoding TS1) o
+n input line 116.
+LaTeX Encoding Info:    Redeclaring text symbol \textrbrackdbl (encoding TS1) o
+n input line 117.
+LaTeX Encoding Info:    Redeclaring text symbol \textuparrow (encoding TS1) on 
+input line 118.
+LaTeX Encoding Info:    Redeclaring text symbol \textdownarrow (encoding TS1) o
+n input line 119.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciigrave (encoding TS1) 
+on input line 120.
+LaTeX Encoding Info:    Redeclaring text symbol \textborn (encoding TS1) on inp
+ut line 121.
+LaTeX Encoding Info:    Redeclaring text symbol \textdivorced (encoding TS1) on
+ input line 122.
+LaTeX Encoding Info:    Redeclaring text symbol \textdied (encoding TS1) on inp
+ut line 123.
+LaTeX Encoding Info:    Redeclaring text symbol \textleaf (encoding TS1) on inp
+ut line 124.
+LaTeX Encoding Info:    Redeclaring text symbol \textmarried (encoding TS1) on 
+input line 125.
+LaTeX Encoding Info:    Redeclaring text symbol \textmusicalnote (encoding TS1)
+ on input line 126.
+LaTeX Encoding Info:    Redeclaring text symbol \texttildelow (encoding TS1) on
+ input line 127.
+LaTeX Encoding Info:    Redeclaring text symbol \textdblhyphenchar (encoding TS
+1) on input line 128.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciibreve (encoding TS1) 
+on input line 129.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciicaron (encoding TS1) 
+on input line 130.
+LaTeX Encoding Info:    Redeclaring text symbol \textacutedbl (encoding TS1) on
+ input line 131.
+LaTeX Encoding Info:    Redeclaring text symbol \textgravedbl (encoding TS1) on
+ input line 132.
+LaTeX Encoding Info:    Redeclaring text symbol \textdagger (encoding TS1) on i
+nput line 133.
+LaTeX Encoding Info:    Redeclaring text symbol \textdaggerdbl (encoding TS1) o
+n input line 134.
+LaTeX Encoding Info:    Redeclaring text symbol \textbardbl (encoding TS1) on i
+nput line 135.
+LaTeX Encoding Info:    Redeclaring text symbol \textperthousand (encoding TS1)
+ on input line 136.
+LaTeX Encoding Info:    Redeclaring text symbol \textbullet (encoding TS1) on i
+nput line 137.
+LaTeX Encoding Info:    Redeclaring text symbol \textcelsius (encoding TS1) on 
+input line 138.
+LaTeX Encoding Info:    Redeclaring text symbol \textdollaroldstyle (encoding T
+S1) on input line 139.
+LaTeX Encoding Info:    Redeclaring text symbol \textcentoldstyle (encoding TS1
+) on input line 140.
+LaTeX Encoding Info:    Redeclaring text symbol \textflorin (encoding TS1) on i
+nput line 141.
+LaTeX Encoding Info:    Redeclaring text symbol \textcolonmonetary (encoding TS
+1) on input line 142.
+LaTeX Encoding Info:    Redeclaring text symbol \textwon (encoding TS1) on inpu
+t line 143.
+LaTeX Encoding Info:    Redeclaring text symbol \textnaira (encoding TS1) on in
+put line 144.
+LaTeX Encoding Info:    Redeclaring text symbol \textguarani (encoding TS1) on 
+input line 145.
+LaTeX Encoding Info:    Redeclaring text symbol \textpeso (encoding TS1) on inp
+ut line 146.
+LaTeX Encoding Info:    Redeclaring text symbol \textlira (encoding TS1) on inp
+ut line 147.
+LaTeX Encoding Info:    Redeclaring text symbol \textrecipe (encoding TS1) on i
+nput line 148.
+LaTeX Encoding Info:    Redeclaring text symbol \textinterrobang (encoding TS1)
+ on input line 149.
+LaTeX Encoding Info:    Redeclaring text symbol \textinterrobangdown (encoding 
+TS1) on input line 150.
+LaTeX Encoding Info:    Redeclaring text symbol \textdong (encoding TS1) on inp
+ut line 151.
+LaTeX Encoding Info:    Redeclaring text symbol \texttrademark (encoding TS1) o
+n input line 152.
+LaTeX Encoding Info:    Redeclaring text symbol \textpertenthousand (encoding T
+S1) on input line 153.
+LaTeX Encoding Info:    Redeclaring text symbol \textpilcrow (encoding TS1) on 
+input line 154.
+LaTeX Encoding Info:    Redeclaring text symbol \textbaht (encoding TS1) on inp
+ut line 155.
+LaTeX Encoding Info:    Redeclaring text symbol \textnumero (encoding TS1) on i
+nput line 156.
+LaTeX Encoding Info:    Redeclaring text symbol \textdiscount (encoding TS1) on
+ input line 157.
+LaTeX Encoding Info:    Redeclaring text symbol \textestimated (encoding TS1) o
+n input line 158.
+LaTeX Encoding Info:    Redeclaring text symbol \textopenbullet (encoding TS1) 
+on input line 159.
+LaTeX Encoding Info:    Redeclaring text symbol \textservicemark (encoding TS1)
+ on input line 160.
+LaTeX Encoding Info:    Redeclaring text symbol \textlquill (encoding TS1) on i
+nput line 161.
+LaTeX Encoding Info:    Redeclaring text symbol \textrquill (encoding TS1) on i
+nput line 162.
+LaTeX Encoding Info:    Redeclaring text symbol \textcent (encoding TS1) on inp
+ut line 163.
+LaTeX Encoding Info:    Redeclaring text symbol \textsterling (encoding TS1) on
+ input line 164.
+LaTeX Encoding Info:    Redeclaring text symbol \textcurrency (encoding TS1) on
+ input line 165.
+LaTeX Encoding Info:    Redeclaring text symbol \textyen (encoding TS1) on inpu
+t line 166.
+LaTeX Encoding Info:    Redeclaring text symbol \textbrokenbar (encoding TS1) o
+n input line 167.
+LaTeX Encoding Info:    Redeclaring text symbol \textsection (encoding TS1) on 
+input line 168.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciidieresis (encoding TS
+1) on input line 169.
+LaTeX Encoding Info:    Redeclaring text symbol \textcopyright (encoding TS1) o
+n input line 170.
+LaTeX Encoding Info:    Redeclaring text symbol \textordfeminine (encoding TS1)
+ on input line 171.
+LaTeX Encoding Info:    Redeclaring text symbol \textcopyleft (encoding TS1) on
+ input line 172.
+LaTeX Encoding Info:    Redeclaring text symbol \textlnot (encoding TS1) on inp
+ut line 173.
+LaTeX Encoding Info:    Redeclaring text symbol \textcircledP (encoding TS1) on
+ input line 174.
+LaTeX Encoding Info:    Redeclaring text symbol \textregistered (encoding TS1) 
+on input line 175.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciimacron (encoding TS1)
+ on input line 176.
+LaTeX Encoding Info:    Redeclaring text symbol \textdegree (encoding TS1) on i
+nput line 177.
+LaTeX Encoding Info:    Redeclaring text symbol \textpm (encoding TS1) on input
+ line 178.
+LaTeX Encoding Info:    Redeclaring text symbol \texttwosuperior (encoding TS1)
+ on input line 179.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreesuperior (encoding TS
+1) on input line 180.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciiacute (encoding TS1) 
+on input line 181.
+LaTeX Encoding Info:    Redeclaring text symbol \textmu (encoding TS1) on input
+ line 182.
+LaTeX Encoding Info:    Redeclaring text symbol \textparagraph (encoding TS1) o
+n input line 183.
+LaTeX Encoding Info:    Redeclaring text symbol \textperiodcentered (encoding T
+S1) on input line 184.
+LaTeX Encoding Info:    Redeclaring text symbol \textreferencemark (encoding TS
+1) on input line 185.
+LaTeX Encoding Info:    Redeclaring text symbol \textonesuperior (encoding TS1)
+ on input line 186.
+LaTeX Encoding Info:    Redeclaring text symbol \textordmasculine (encoding TS1
+) on input line 187.
+LaTeX Encoding Info:    Redeclaring text symbol \textsurd (encoding TS1) on inp
+ut line 188.
+LaTeX Encoding Info:    Redeclaring text symbol \textonequarter (encoding TS1) 
+on input line 189.
+LaTeX Encoding Info:    Redeclaring text symbol \textonehalf (encoding TS1) on 
+input line 190.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreequarters (encoding TS
+1) on input line 191.
+LaTeX Encoding Info:    Redeclaring text symbol \texteuro (encoding TS1) on inp
+ut line 192.
+LaTeX Encoding Info:    Redeclaring text symbol \texttimes (encoding TS1) on in
+put line 193.
+LaTeX Encoding Info:    Redeclaring text symbol \textdiv (encoding TS1) on inpu
+t line 194.
+))
+\l__ctex_tmp_int=\count274
+\l__ctex_tmp_box=\box53
+\l__ctex_tmp_dim=\dimen148
+\g__ctex_section_depth_int=\count275
+\g__ctex_font_size_int=\count276
+
+(d:/texlive/2026/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
+)
+(d:/texlive/2026/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(d:/texlive/2026/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count277
+\c@section=\count278
+\c@subsection=\count279
+\c@subsubsection=\count280
+\c@paragraph=\count281
+\c@subparagraph=\count282
+\c@figure=\count283
+\c@table=\count284
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen149
+)
+(d:/texlive/2026/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2022/07/14 v2.5.10 XeLaTeX adapter (CTEX)
+
+(d:/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
+
+(d:/texlive/2026/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2025-10-09 L3 Experimental prototype document functions
+)
+\l__xeCJK_tmp_int=\count285
+\l__xeCJK_tmp_box=\box54
+\l__xeCJK_tmp_dim=\dimen150
+\l__xeCJK_tmp_skip=\skip51
+\g__xeCJK_space_factor_int=\count286
+\l__xeCJK_begin_int=\count287
+\l__xeCJK_end_int=\count288
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip52
+\c__xeCJK_none_node=\count289
+\g__xeCJK_node_int=\count290
+\c__xeCJK_CJK_node_dim=\dimen151
+\c__xeCJK_CJK-space_node_dim=\dimen152
+\c__xeCJK_default_node_dim=\dimen153
+\c__xeCJK_CJK-widow_node_dim=\dimen154
+\c__xeCJK_normalspace_node_dim=\dimen155
+\c__xeCJK_default-space_node_skip=\skip53
+\l__xeCJK_ccglue_skip=\skip54
+\l__xeCJK_ecglue_skip=\skip55
+\l__xeCJK_punct_kern_skip=\skip56
+\l__xeCJK_indent_box=\box55
+\l__xeCJK_last_penalty_int=\count291
+\l__xeCJK_last_bound_dim=\dimen156
+\l__xeCJK_last_kern_dim=\dimen157
+\l__xeCJK_widow_penalty_int=\count292
+
+LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
+(template)           argument(s) on line 2396.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen158
+\l__xeCJK_mixed_punct_width_dim=\dimen159
+\l__xeCJK_middle_punct_width_dim=\dimen160
+\l__xeCJK_fixed_margin_width_dim=\dimen161
+\l__xeCJK_mixed_margin_width_dim=\dimen162
+\l__xeCJK_middle_margin_width_dim=\dimen163
+\l__xeCJK_bound_punct_width_dim=\dimen164
+\l__xeCJK_bound_margin_width_dim=\dimen165
+\l__xeCJK_margin_minimum_dim=\dimen166
+\l__xeCJK_kerning_total_width_dim=\dimen167
+\l__xeCJK_same_align_margin_dim=\dimen168
+\l__xeCJK_different_align_margin_dim=\dimen169
+\l__xeCJK_kerning_margin_width_dim=\dimen170
+\l__xeCJK_kerning_margin_minimum_dim=\dimen171
+\l__xeCJK_bound_dim=\dimen172
+\l__xeCJK_reverse_bound_dim=\dimen173
+\l__xeCJK_margin_dim=\dimen174
+\l__xeCJK_minimum_bound_dim=\dimen175
+\l__xeCJK_kerning_margin_dim=\dimen176
+\g__xeCJK_family_int=\count293
+\l__xeCJK_fam_int=\count294
+\g__xeCJK_fam_allocation_int=\count295
+\l__xeCJK_verb_case_int=\count296
+\l__xeCJK_verb_exspace_skip=\skip57
+
+(d:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.sty
+(d:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(d:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count297
+\l__fontspec_language_int=\count298
+\l__fontspec_strnum_int=\count299
+\l__fontspec_tmp_int=\count300
+\l__fontspec_tmpa_int=\count301
+\l__fontspec_tmpb_int=\count302
+\l__fontspec_tmpc_int=\count303
+\l__fontspec_em_int=\count304
+\l__fontspec_emdef_int=\count305
+\l__fontspec_strong_int=\count306
+\l__fontspec_strongdef_int=\count307
+\l__fontspec_tmpa_dim=\dimen177
+\l__fontspec_tmpb_dim=\dimen178
+\l__fontspec_tmpc_dim=\dimen179
+
+(d:/texlive/2026/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(d:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(d:/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
+))
+\ccwd=\dimen180
+\l__ctex_ccglue_skip=\skip58
+)
+\l__ctex_ziju_dim=\dimen181
+
+(d:/texlive/2026/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count308
+\l__zhnum_tmp_int=\count309
+
+(d:/texlive/2026/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip59
+
+(d:/texlive/2026/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.d
+ef
+File: ctex-scheme-chinese-article.def 2022/07/14 v2.5.10 Chinese scheme for art
+icle (CTEX)
+ (d:/texlive/2026/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
+))
+(d:/texlive/2026/texmf-dist/tex/latex/ctex/ctex-cs4size.clo
+File: ctex-cs4size.clo 2022/07/14 v2.5.10 cs4size option (CTEX)
+)
+(d:/texlive/2026/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTE
+X)
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "KaiTi/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "SimHei/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'SimSun(0)' created for font 'SimSun' with
+(fontspec)             options
+(fontspec)             [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
+
+))
+(d:/texlive/2026/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
+)
+(d:/texlive/2026/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip60
+
+For additional information on amsmath, use the `?' option.
+(d:/texlive/2026/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(d:/texlive/2026/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen182
+))
+(d:/texlive/2026/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen183
+)
+(d:/texlive/2026/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count310
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count311
+\leftroot@=\count312
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count313
+\DOTSCASE@=\count314
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen184
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count315
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count316
+\dotsspace@=\muskip17
+\c@parentequation=\count317
+\dspbrk@lvl=\count318
+\tag@help=\toks18
+\row@=\count319
+\column@=\count320
+\maxfields@=\count321
+\andhelp@=\toks19
+\eqnshift@=\dimen185
+\alignsep@=\dimen186
+\tagshift@=\dimen187
+\tagwidth@=\dimen188
+\totwidth@=\dimen189
+\lineht@=\dimen190
+\@envbody=\toks20
+\multlinegap=\skip61
+\multlinetaggap=\skip62
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(d:/texlive/2026/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(d:/texlive/2026/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(d:/texlive/2026/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2025/10/21 v1.2g Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(d:/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen191
+\lightrulewidth=\dimen192
+\cmidrulewidth=\dimen193
+\belowrulesep=\dimen194
+\belowbottomsep=\dimen195
+\aboverulesep=\dimen196
+\abovetopsep=\dimen197
+\cmidrulesep=\dimen198
+\cmidrulekern=\dimen199
+\defaultaddspace=\dimen256
+\@cmidla=\count322
+\@cmidlb=\count323
+\@aboverulesep=\dimen257
+\@belowrulesep=\dimen258
+\@thisruleclass=\count324
+\@lastruleclass=\count325
+\@thisrulewidth=\dimen259
+)
+(d:/texlive/2026/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip63
+\LTright=\skip64
+\LTpre=\skip65
+\LTpost=\skip66
+\LTchunksize=\count326
+\LTcapwidth=\dimen260
+\LT@head=\box58
+\LT@firsthead=\box59
+\LT@foot=\box60
+\LT@lastfoot=\box61
+\LT@gbox=\box62
+\LT@cols=\count327
+\LT@rows=\count328
+\c@LT@tables=\count329
+\c@LT@chunks=\count330
+\LT@p@ftn=\toks22
+)
+(d:/texlive/2026/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+
+(d:/texlive/2026/texmf-dist/tex/latex/tools/array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen261
+\ar@mcellbox=\box63
+\extrarowheight=\dimen262
+\NC@list=\toks23
+\extratabsurround=\skip67
+\backup@length=\skip68
+\ar@cellbox=\box64
+)
+\TX@col@width=\dimen263
+\TX@old@table=\dimen264
+\TX@old@col=\dimen265
+\TX@target=\dimen266
+\TX@delta=\dimen267
+\TX@cols=\count331
+\TX@ftn=\toks24
+)
+(d:/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(d:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(d:/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(d:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count332
+\Gm@cntv=\count333
+\c@Gm@tempcnt=\count334
+\Gm@bindingoffset=\dimen268
+\Gm@wd@mp=\dimen269
+\Gm@odd@mp=\dimen270
+\Gm@even@mp=\dimen271
+\Gm@layoutwidth=\dimen272
+\Gm@layoutheight=\dimen273
+\Gm@layouthoffset=\dimen274
+\Gm@layoutvoffset=\dimen275
+\Gm@dimlist=\toks26
+)
+(d:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(d:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(d:/texlive/2026/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen276
+\Gin@req@width=\dimen277
+)
+(d:/texlive/2026/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count335
+\float@exts=\toks27
+\float@box=\box65
+\@float@everytoks=\toks28
+\@floatcapt=\box66
+)
+(d:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(d:/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen278
+\captionmargin=\dimen279
+\caption@leftmargin=\dimen280
+\caption@rightmargin=\dimen281
+\caption@width=\dimen282
+\caption@indent=\dimen283
+\caption@parindent=\dimen284
+\caption@hangindent=\dimen285
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count336
+\c@continuedfloat=\count337
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(d:/texlive/2026/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+))
+(d:/texlive/2026/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(d:/texlive/2026/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(d:/texlive/2026/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(d:/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen286
+\pgfutil@tempdimb=\dimen287
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box67
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(d:/texlive/2026/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(d:/texlive/2026/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.co
+de.tex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen288
+\pgf@y=\dimen289
+\pgf@xa=\dimen290
+\pgf@ya=\dimen291
+\pgf@xb=\dimen292
+\pgf@yb=\dimen293
+\pgf@xc=\dimen294
+\pgf@yc=\dimen295
+\pgf@xd=\dimen296
+\pgf@yd=\dimen297
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count338
+\c@pgf@countb=\count339
+\c@pgf@countc=\count340
+\c@pgf@countd=\count341
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+\pgf@sys@id@count=\count342
+ (d:/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)
+\pgfsys@objnum=\count343
+)))
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count344
+\pgfsyssoftpath@bigbuffer@items=\count345
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (d:/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(d:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(d:/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen298
+\pgfmath@count=\count346
+\pgfmath@box=\box68
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count347
+))
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen299
+\pgf@picmaxx=\dimen300
+\pgf@picminy=\dimen301
+\pgf@picmaxy=\dimen302
+\pgf@pathminx=\dimen303
+\pgf@pathmaxx=\dimen304
+\pgf@pathminy=\dimen305
+\pgf@pathmaxy=\dimen306
+\pgf@xx=\dimen307
+\pgf@xy=\dimen308
+\pgf@yx=\dimen309
+\pgf@yy=\dimen310
+\pgf@zx=\dimen311
+\pgf@zy=\dimen312
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen313
+\pgf@path@lasty=\dimen314
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen315
+\pgf@shorten@start@additional=\dimen316
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box69
+\pgf@hbox=\box70
+\pgf@layerbox@main=\box71
+\pgf@picture@serial@count=\count348
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen317
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen318
+\pgf@pt@y=\dimen319
+\pgf@pt@temp=\dimen320
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen321
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen322
+\pgf@sys@shading@range@num=\count349
+\pgf@shadingcount=\count350
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box72
+) (d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (d:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (d:/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box73
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(d:/texlive/2026/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen323
+\pgf@nodesepend=\dimen324
+)
+(d:/texlive/2026/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+)) (d:/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(d:/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(d:/texlive/2026/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen325
+\pgffor@skip=\dimen326
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count351
+\pgfplotmarksize=\dimen327
+)
+\tikz@lastx=\dimen328
+\tikz@lasty=\dimen329
+\tikz@lastxsaved=\dimen330
+\tikz@lastysaved=\dimen331
+\tikz@lastmovetox=\dimen332
+\tikz@lastmovetoy=\dimen333
+\tikzleveldistance=\dimen334
+\tikzsiblingdistance=\dimen335
+\tikz@figbox=\box74
+\tikz@figbox@bg=\box75
+\tikz@tempbox=\box76
+\tikz@tempbox@bg=\box77
+\tikztreelevel=\count352
+\tikznumberofchildren=\count353
+\tikznumberofcurrentchild=\count354
+\tikz@fig@count=\count355
+
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count356
+\pgfmatrixcurrentcolumn=\count357
+\pgf@matrix@numberofcolumns=\count358
+)
+\tikz@expandcount=\count359
+
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.cod
+e.tex
+File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowinset=\dimen336
+\pgfarrowlength=\dimen337
+\pgfarrowwidth=\dimen338
+\pgfarrowlinewidth=\dimen339
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(d:/texlive/2026/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.g
+eometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKrmdefault' (SimSun(0)).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "SimSun/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "SimSun/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'SimSun(1)' created for font 'SimSun' with
+(fontspec)             options [Script={CJK},AutoFakeBold={2}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;embolden=2;"
+
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKsfdefault' (Microsoft YaHei).
+
+(d:/texlive/2026/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2026/02/25 v1.14.0 fvextra - extensions and patches for fancyv
+rb
+
+(d:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count360
+)
+(d:/texlive/2026/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2025/07/28 4.6 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count361
+\FV@InFile=\read3
+\FV@TabBox=\box78
+\c@FancyVerbLine=\count362
+\FV@StepNumber=\count363
+\FV@OutFile=\write4
+)
+(d:/texlive/2026/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(d:/texlive/2026/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+))
+(d:/texlive/2026/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2026/02/16 line numbers on paragraphs v5.7
+
+(d:/texlive/2026/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(d:/texlive/2026/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(d:/texlive/2026/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+\linenopenalty=\count364
+\output=\toks41
+\linenoprevgraf=\count365
+\linenumbersep=\dimen340
+\linenumberwidth=\dimen341
+\c@linenumber=\count366
+\c@pagewiselinenumber=\count367
+\c@LN@truepage=\count368
+\c@internallinenumber=\count369
+\c@internallinenumbers=\count370
+\quotelinenumbersep=\dimen342
+\bframerule=\dimen343
+\bframesep=\dimen344
+\bframebox=\box79
+\@LN@amsmath@ams@eqpen=\count371
+)
+\c@FancyVerbWriteLine=\count372
+\c@FancyVerbBufferLine=\count373
+\c@FV@TrueTabGroupLevel=\count374
+\c@FV@TrueTabCounter=\count375
+\FV@TabBox@Group=\box80
+\FV@bgcolorstructbox=\box81
+\FV@TmpLength=\skip69
+\c@FV@HighlightLinesStart=\count376
+\c@FV@HighlightLinesStop=\count377
+\FV@LoopCount=\count378
+\FV@NCharsBox=\box82
+\FV@BreakIndent=\dimen345
+\FV@BreakIndentNChars=\count379
+\FV@BreakSymbolSepLeft=\dimen346
+\FV@BreakSymbolSepLeftNChars=\count380
+\FV@BreakSymbolSepRight=\dimen347
+\FV@BreakSymbolSepRightNChars=\count381
+\FV@BreakSymbolIndentLeft=\dimen348
+\FV@BreakSymbolIndentLeftNChars=\count382
+\FV@BreakSymbolIndentRight=\dimen349
+\FV@BreakSymbolIndentRightNChars=\count383
+\c@FancyVerbLineBreakLast=\count384
+\FV@LineBox=\box83
+\FV@LineIndentBox=\box84
+\c@FV@BreakBufferDepth=\count385
+\FV@LineWidth=\dimen350
+)
+(build/main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 27.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 27.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 27.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 27.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 27.
+LaTeX Font Info:    Redeclaring math accent \check on input line 27.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 27.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 27.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 27.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 27.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 27.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 27.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 27.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 27.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 27.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "SimSun/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "SimSun/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'SimSun(2)' created for font 'SimSun' with
+(fontspec)             options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Microsoft YaHei/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Microsoft YaHei/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'MicrosoftYaHei(0)' created for font
+(fontspec)             'Microsoft YaHei' with options
+(fontspec)             [Script={CJK},AutoFakeBold={2}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Microsoft
+(fontspec)             YaHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Microsoft
+(fontspec)             YaHei/OT:script=hani;language=dflt;embolden=2;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Microsoft
+(fontspec)             YaHei/BI/OT:script=hani;language=dflt;"
+
+
+LaTeX Font Warning: Font shape `TU/SimSun(2)/b/n' undefined
+(Font)              using `TU/SimSun(2)/m/n' instead on input line 31.
+
+[1
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
+
+ (d:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
+
+
+(d:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [2
+
+] [3]
+File: figs/raw_q1_environment.pdf Graphic file (type pdf)
+<use figs/raw_q1_environment.pdf>
+ [4]
+File: figs/raw_q2_environment_relation.pdf Graphic file (type pdf)
+<use figs/raw_q2_environment_relation.pdf>
+File: figs/raw_q3_radius.pdf Graphic file (type pdf)
+<use figs/raw_q3_radius.pdf>
+ [5]
+File: figs/raw_q4_shrinkage.pdf Graphic file (type pdf)
+<use figs/raw_q4_shrinkage.pdf>
+
+[6] [7]
+File: figs/process_q1_temperature.pdf Graphic file (type pdf)
+<use figs/process_q1_temperature.pdf>
+ [8]
+File: figs/result_q1_profile.pdf Graphic file (type pdf)
+<use figs/result_q1_profile.pdf>
+ [9]
+File: figs/process_q2_moisture.pdf Graphic file (type pdf)
+<use figs/process_q2_moisture.pdf>
+ [10]
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'FangSong(0)' created for font 'FangSong'
+(fontspec)             with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
+
+File: figs/result_q2_profile.pdf Graphic file (type pdf)
+<use figs/result_q2_profile.pdf>
+ [11]
+File: figs/process_q3_wet_fraction.pdf Graphic file (type pdf)
+<use figs/process_q3_wet_fraction.pdf>
+ [12]
+File: figs/result_q3_endpoint.pdf Graphic file (type pdf)
+<use figs/result_q3_endpoint.pdf>
+File: figs/process_q4_shrinkage_moisture.pdf Graphic file (type pdf)
+<use figs/process_q4_shrinkage_moisture.pdf>
+ [13]
+File: figs/result_q4_endpoint.pdf Graphic file (type pdf)
+<use figs/result_q4_endpoint.pdf>
+ [14] (./p2_table.tex) [15]
+File: figs/p2_boundary_sensitivity.pdf Graphic file (type pdf)
+<use figs/p2_boundary_sensitivity.pdf>
+ [16] [17]
+[18] [19] (build/main.bbl [20]) [21] (./support_file_list.tex)
+(./source_appendix.tex [22
+
+]
+Overfull \hbox (41.00978pt too wide) in paragraph at lines 53--53
+[]        \TU/lmtt/m/n/12.045 for j in range(2,25):ws.column_dimensions[get_col
+umn_letter(j)].width=12[] 
+ []
+
+
+Overfull \hbox (47.2129pt too wide) in paragraph at lines 53--53
+[]            \TU/lmtt/m/n/12.045 values=[state[[]t[]]]+[None if v is None else
+ round(v,4) for v in vals][] 
+ []
+
+[23]
+Overfull \hbox (47.21289pt too wide) in paragraph at lines 53--53
+[]        \TU/lmtt/m/n/12.045 with gzip.open(ROOT/[]runs[]/f[]{name}.json.gz[],
+[]rt[],encoding=[]utf-8[]) as f:[] 
+ []
+
+
+Overfull \hbox (53.41612pt too wide) in paragraph at lines 53--53
+[]            \TU/lmtt/m/n/12.045 write_book(f[]result{number}.xlsx[],[(title,r
+esult[[]short[]],field,False)[] 
+ []
+
+
+Overfull \hbox (96.83832pt too wide) in paragraph at lines 53--53
+[]            \TU/lmtt/m/n/12.045 if number==2:write_book([]result3.xlsx[],[([]
+Sheet1[],result[[]long[]],[]C[],False)])[] 
+ []
+
+
+Overfull \hbox (16.19707pt too wide) in paragraph at lines 53--53
+[]        \TU/lmtt/m/n/12.045 else:write_book([]result4.xlsx[],[([]Sheet1[],res
+ult[[]long[]],[]C[],True)])[] 
+ []
+
+[24]
+Overfull \hbox (53.41606pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 with gzip.open(ROOT / []runs[] / f[]{name}.json.gz[],
+ []rt[], encoding=[]utf8[]) as f:[] 
+ []
+
+
+Overfull \hbox (59.61928pt too wide) in paragraph at lines 190--190
+[]        []\TU/lmtt/m/n/12.045 font.size[]:11,[]axes.unicode_minus[]:False,[]m
+athtext.fontset[]:[]dejavuserif[],[] 
+ []
+
+
+Overfull \hbox (65.8225pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 # Raw data figures: observed environmental and radius
+ data, plus derived ranges.[] 
+ []
+
+
+Overfull \hbox (9.99393pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 # q1: two observed air variables, separate panels bec
+ause units differ.[] 
+ []
+
+[25]
+Overfull \hbox (22.40024pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 fig, ax = plt.subplots(1, 2, figsize=(7.2, 4.2), cons
+trained_layout=True)[] 
+ []
+
+
+Overfull \hbox (47.21289pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax[0].set(xlabel=[] \TU/FangSong(0)/m/n/12.045 时 间  \
+TU/lmtt/m/n/12.045 / h[], ylabel=[] \TU/FangSong(0)/m/n/12.045 烘 房 温 度  \TU/lmt
+t/m/n/12.045 / °C[], title=[] \TU/FangSong(0)/m/n/12.045 附 件 \TU/lmtt/m/n/12.04
+5 1 \TU/FangSong(0)/m/n/12.045 ： 烘 房 温 度 []\TU/lmtt/m/n/12.045 )[] 
+ []
+
+
+Overfull \hbox (127.85414pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax[1].set(xlabel=[] \TU/FangSong(0)/m/n/12.045 时 间  \
+TU/lmtt/m/n/12.045 / h[], ylabel=[] \TU/FangSong(0)/m/n/12.045 有 效 水 分 浓 度  \TU
+/lmtt/m/n/12.045 / (kg/kg)[], title=[] \TU/FangSong(0)/m/n/12.045 附 件 \TU/lmtt/
+m/n/12.045 1 \TU/FangSong(0)/m/n/12.045 ： 烘 房 水 分 浓 度 []\TU/lmtt/m/n/12.045 )[]
+ 
+ []
+
+
+Overfull \hbox (28.60344pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 # q2: input range summary as a relationship between e
+nvironment variables.[] 
+ []
+
+
+Overfull \hbox (78.22879pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.plot(inp.air[:, 1], inp.air[:, 2], color=colors[0]
+, lw=1.0, marker=[]o[], ms=1.5)[] 
+ []
+
+
+Overfull \hbox (140.26047pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.set(xlabel=[] \TU/FangSong(0)/m/n/12.045 烘 房 温 度  
+\TU/lmtt/m/n/12.045 / °C[], ylabel=[] \TU/FangSong(0)/m/n/12.045 烘 房 水 分 浓 度  \
+TU/lmtt/m/n/12.045 / (kg/kg)[], title=[] \TU/FangSong(0)/m/n/12.045 附 件 \TU/lmt
+t/m/n/12.045 1 \TU/FangSong(0)/m/n/12.045 ： 环 境 状 态 关 系 []\TU/lmtt/m/n/12.045 )
+[] 
+ []
+
+
+Overfull \hbox (115.43578pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.scatter(inp.radii[:, 0] / 3600, inp.radii[:, 1], s
+=12, color=colors[1], label=[] \TU/FangSong(0)/m/n/12.045 观 测 []\TU/lmtt/m/n/12
+.045 )[] 
+ []
+
+
+Overfull \hbox (34.78249pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.plot(inp.radii[:, 0] / 3600, inp.radii[:, 1], colo
+r=colors[1], alpha=.6)[] 
+ []
+
+
+Overfull \hbox (90.63507pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.set(xlabel=[] \TU/FangSong(0)/m/n/12.045 时 间  \TU/
+lmtt/m/n/12.045 / h[], ylabel=[] \TU/FangSong(0)/m/n/12.045 半 径  \TU/lmtt/m/n/1
+2.045 / cm[], title=[] \TU/FangSong(0)/m/n/12.045 附 件 \TU/lmtt/m/n/12.045 2 \TU
+/FangSong(0)/m/n/12.045 ： 药 材 半 径 观 测 与 线 性 插 值 []\TU/lmtt/m/n/12.045 )[] 
+ []
+
+
+Overfull \hbox (16.1971pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.legend(frameon=False); ax.spines[[[]top[], []right
+[]]].set_visible(False)[] 
+ []
+
+
+Overfull \hbox (84.4199pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.plot(inp.radii[:, 0] / 3600, inp.radii[:, 1] / inp
+.radii[0, 1], color=colors[1])[] 
+ []
+
+
+Overfull \hbox (47.21288pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.set(xlabel=[] \TU/FangSong(0)/m/n/12.045 时 间  \TU/
+lmtt/m/n/12.045 / h[], ylabel=[]R(t) / R(0)[], title=[] \TU/FangSong(0)/m/n/12.
+045 收 缩 几 何 的 无 量 纲 半 径 []\TU/lmtt/m/n/12.045 )[] 
+ []
+
+[26]
+Overfull \hbox (90.63507pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.set(xlabel=[] \TU/FangSong(0)/m/n/12.045 时 间  \TU/
+lmtt/m/n/12.045 / h[], ylabel=[] \TU/FangSong(0)/m/n/12.045 温 度  \TU/lmtt/m/n/1
+2.045 / °C[], title=[] \TU/FangSong(0)/m/n/12.045 问 题 \TU/lmtt/m/n/12.045 1 \TU
+/FangSong(0)/m/n/12.045 ： 预 热 阶 段 中 心 — 表 面 温 度 []\TU/lmtt/m/n/12.045 )[] 
+ []
+
+
+Overfull \hbox (16.1971pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.legend(frameon=False); ax.spines[[[]top[], []right
+[]]].set_visible(False)[] 
+ []
+
+
+Overfull \hbox (140.26048pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.set(xlabel=[] \TU/FangSong(0)/m/n/12.045 时 间  \TU/
+lmtt/m/n/12.045 / h[], ylabel=[] \TU/FangSong(0)/m/n/12.045 干 基 含 水 率  \TU/lmtt
+/m/n/12.045 / (kg/kg)[], title=[] \TU/FangSong(0)/m/n/12.045 问 题 \TU/lmtt/m/n/1
+2.045 2 \TU/FangSong(0)/m/n/12.045 — \TU/lmtt/m/n/12.045 3 \TU/FangSong(0)/m/n/
+12.045 ： 固 定 半 径 失 水 过 程 []\TU/lmtt/m/n/12.045 )[] 
+ []
+
+
+Overfull \hbox (152.66692pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.set_yscale([]log[]); ax.legend(frameon=False); ax.
+spines[[[]top[], []right[]]].set_visible(False)[] 
+ []
+
+
+Overfull \hbox (134.05727pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.set(xlabel=[] \TU/FangSong(0)/m/n/12.045 时 间  \TU/
+lmtt/m/n/12.045 / h[], ylabel=[] \TU/FangSong(0)/m/n/12.045 未 达 标 截 面 积 比 例  \T
+U/lmtt/m/n/12.045 / %[], title=[] \TU/FangSong(0)/m/n/12.045 问 题 \TU/lmtt/m/n/1
+2.045 3 \TU/FangSong(0)/m/n/12.045 ： 未 达 标 核 心 面 积 变 化 []\TU/lmtt/m/n/12.045 )[
+] 
+ []
+
+
+Overfull \hbox (22.40024pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 fig, ax = plt.subplots(1, 2, figsize=(7.2, 4.2), cons
+trained_layout=True)[] 
+ []
+
+
+Overfull \hbox (59.61925pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax[1].set(xlabel=[] \TU/FangSong(0)/m/n/12.045 时 间  \
+TU/lmtt/m/n/12.045 / h[], ylabel=[] \TU/FangSong(0)/m/n/12.045 中 心 含 水 率  \TU/l
+mtt/m/n/12.045 / (kg/kg)[], title=[] \TU/FangSong(0)/m/n/12.045 中 心 含 水 率 []\TU
+/lmtt/m/n/12.045 )[] 
+ []
+
+
+Overfull \hbox (183.68271pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 snap1 = q1[[]summaries[]][[]1800[]]; valsT = sample(s
+nap1, []T[], dist); valsC = sample(snap1, []C[], dist)[] 
+ []
+
+
+Overfull \hbox (109.24461pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.set(xlabel=[] \TU/FangSong(0)/m/n/12.045 到 中 心 距 离
+  \TU/lmtt/m/n/12.045 / cm[], ylabel=[] \TU/FangSong(0)/m/n/12.045 温 度  \TU/lmt
+t/m/n/12.045 / °C[], title=[] \TU/FangSong(0)/m/n/12.045 问 题 \TU/lmtt/m/n/12.04
+5 1 \TU/FangSong(0)/m/n/12.045 ： \TU/lmtt/m/n/12.045 1800 s \TU/FangSong(0)/m/n
+/12.045 径 向 温 度 结 果 []\TU/lmtt/m/n/12.045 )[] 
+ []
+
+[27]
+Overfull \hbox (171.27634pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.set(xlabel=[] \TU/FangSong(0)/m/n/12.045 到 中 心 距 离
+  \TU/lmtt/m/n/12.045 / cm[], ylabel=[] \TU/FangSong(0)/m/n/12.045 干 基 含 水 率  \
+TU/lmtt/m/n/12.045 / (kg/kg)[], title=[] \TU/FangSong(0)/m/n/12.045 问 题 \TU/lmt
+t/m/n/12.045 2 \TU/FangSong(0)/m/n/12.045 ： \TU/lmtt/m/n/12.045 3 h \TU/FangSon
+g(0)/m/n/12.045 径 向 含 水 率 结 果 []\TU/lmtt/m/n/12.045 )[] 
+ []
+
+
+Overfull \hbox (189.88583pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.set(xlabel=[] \TU/FangSong(0)/m/n/12.045 到 中 心 距 离
+  \TU/lmtt/m/n/12.045 / cm[], ylabel=[] \TU/FangSong(0)/m/n/12.045 干 基 含 水 率  \
+TU/lmtt/m/n/12.045 / (kg/kg)[], title=[] \TU/FangSong(0)/m/n/12.045 问 题 \TU/lmt
+t/m/n/12.045 3 \TU/FangSong(0)/m/n/12.045 ： 首 次 达 标 时 径 向 含 水 率 []\TU/lmtt/m/n/
+12.045 )[] 
+ []
+
+
+Overfull \hbox (16.1971pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.legend(frameon=False); ax.spines[[[]top[], []right
+[]]].set_visible(False)[] 
+ []
+
+
+Overfull \hbox (28.6034pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.plot(dist, vals, color=colors[1], marker=[]o[], ms
+=2, label=[] \TU/FangSong(0)/m/n/12.045 有 效 域 采 样 []\TU/lmtt/m/n/12.045 )[] 
+ []
+
+
+Overfull \hbox (202.29218pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.set(xlabel=[] \TU/FangSong(0)/m/n/12.045 固 定 物 理 距
+ 离  \TU/lmtt/m/n/12.045 / cm[], ylabel=[] \TU/FangSong(0)/m/n/12.045 干 基 含 水 率 
+ \TU/lmtt/m/n/12.045 / (kg/kg)[], title=[] \TU/FangSong(0)/m/n/12.045 问 题 \TU/l
+mtt/m/n/12.045 4 \TU/FangSong(0)/m/n/12.045 ： 收 缩 终 点 物 理 距 离 剖 面 []\TU/lmtt/m/
+n/12.045 )[] 
+ []
+
+
+Overfull \hbox (16.1971pt too wide) in paragraph at lines 190--190
+[]    \TU/lmtt/m/n/12.045 ax.legend(frameon=False); ax.spines[[[]top[], []right
+[]]].set_visible(False)[] 
+ []
+
+
+Overfull \hbox (3.79077pt too wide) in paragraph at lines 682--682
+[]\TU/lmtt/m/n/12.045 The physical interpretation remains the \TU/FangSong(0)/m
+/n/12.045 题 设  \TU/lmtt/m/n/12.045 effective heat/moisture model;[] 
+ []
+
+[28] [29]
+Overfull \hbox (28.60338pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 vals = 2.4e-3 * np.exp(-0.45 / c - 3850.0 / (tfac
+e[:, None] + 273.15))[] 
+ []
+
+
+Overfull \hbox (28.60338pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 vals = 4.2e-4 * np.exp(-0.30 / c - 3850.0 / (tfac
+e[:, None] + 273.15))[] 
+ []
+
+[30]
+Overfull \hbox (22.40022pt too wide) in paragraph at lines 682--682
+[]            \TU/lmtt/m/n/12.045 wb = openpyxl.load_workbook(path, data_only=T
+rue, read_only=True)[] 
+ []
+
+
+Overfull \hbox (16.19707pt too wide) in paragraph at lines 682--682
+[]            \TU/lmtt/m/n/12.045 if not np.isfinite(a).all() or not np.all(np.
+diff(a[:, 0]) > 0):[] 
+ []
+
+[31]
+Overfull \hbox (9.9939pt too wide) in paragraph at lines 682--682
+[]            \TU/lmtt/m/n/12.045 raise ValueError([]Shrinkage data extrapolati
+on is not allowed[])[] 
+ []
+
+
+Overfull \hbox (22.40024pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 return 0.01 * float(np.interp(t, self.radii[:, 0]
+, self.radii[:, 1]))[] 
+ []
+
+
+Overfull \hbox (103.04146pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 self.x = 1.0 - (1.0 - np.arange(cfg.n + 1, dtype=
+float) / cfg.n) ** cfg.grid_power[] 
+ []
+
+[32]
+Overfull \hbox (22.40025pt too wide) in paragraph at lines 682--682
+[]    \TU/lmtt/m/n/12.045 def coefficients(self, face_coefficient, capacity, bo
+undary, radius, dt):[] 
+ []
+
+
+Overfull \hbox (90.63515pt too wide) in paragraph at lines 682--682
+[]    \TU/lmtt/m/n/12.045 def linear_step(self, u, face_coefficient, capacity, 
+boundary, ambient, radius, dt):[] 
+ []
+
+
+Overfull \hbox (78.2288pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 ab, conv = self.coefficients(face_coefficient, ca
+pacity, boundary, radius, dt)[] 
+ []
+
+
+Overfull \hbox (9.99393pt too wide) in paragraph at lines 682--682
+[]    \TU/lmtt/m/n/12.045 def _bdf_coefficients(self, dt, previous_dt, has_hist
+ory, method=None):[] 
+ []
+
+[33]
+Overfull \hbox (109.24464pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 g = self.face * np.asarray(face_coefficient, dtyp
+e=float) / (self.dx * radius ** 2)[] 
+ []
+
+
+Overfull \hbox (9.9939pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 conv = scale * boundary / (radius * self.volume[-
+1] * capacity[-1])[] 
+ []
+
+
+Overfull \hbox (109.24464pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 g = self.face * np.asarray(face_coefficient, dtyp
+e=float) / (self.dx * radius ** 2)[] 
+ []
+
+
+Overfull \hbox (16.19704pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 lhs = capacity * self.volume * (a0 * new + a1 * o
+ld + a2 * previous)[] 
+ []
+
+[34]
+Overfull \hbox (115.44783pt too wide) in paragraph at lines 682--682
+[]    \TU/lmtt/m/n/12.045 def _attempt(self, t, old_t, old_c, prev_t, prev_c, p
+revious_dt, dt, force_method=None):[] 
+ []
+
+
+Overfull \hbox (109.24467pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 has_history = prev_t is not None and prev_c is no
+t None and previous_dt is not None[] 
+ []
+
+[35]
+Overfull \hbox (3.79068pt too wide) in paragraph at lines 682--682
+[]                        \TU/lmtt/m/n/12.045 raise StepFailure([]radial monoto
+nicity violation[])[] 
+ []
+
+
+Overfull \hbox (90.63512pt too wide) in paragraph at lines 682--682
+[]                    \TU/lmtt/m/n/12.045 self.stats[[]max_iterations[]] = max(
+self.stats[[]max_iterations[]], it)[] 
+ []
+
+
+Overfull \hbox (9.99385pt too wide) in paragraph at lines 682--682
+[]                        \TU/lmtt/m/n/12.045 self.stats[[]max_moisture_equatio
+n_residual[]], rn_c)[] 
+ []
+
+
+Overfull \hbox (28.60338pt too wide) in paragraph at lines 682--682
+[]                        \TU/lmtt/m/n/12.045 self.stats[[]max_heat_equation_re
+sidual[]], rn_t * 50.0)[] 
+ []
+
+[36]
+Overfull \hbox (41.00969pt too wide) in paragraph at lines 682--682
+[]                    \TU/lmtt/m/n/12.045 self.stats[[]event_fallbacks[]] += 1 
+if force == []bdf2[] else 0[] 
+ []
+
+
+Overfull \hbox (78.22876pt too wide) in paragraph at lines 682--682
+[]                    \TU/lmtt/m/n/12.045 return self._attempt(*args, **{**kwar
+gs, []force_method[]: []euler[]})[] 
+ []
+
+
+Overfull \hbox (47.21294pt too wide) in paragraph at lines 682--682
+[]    \TU/lmtt/m/n/12.045 def _step_with_error(self, t, old_t, old_c, prev_t, p
+rev_c, previous_dt, dt):[] 
+ []
+
+
+Overfull \hbox (3.79068pt too wide) in paragraph at lines 682--682
+[]                \TU/lmtt/m/n/12.045 full_t, full_c, method, picard_error = se
+lf._advance_once([] 
+ []
+
+
+Overfull \hbox (47.21286pt too wide) in paragraph at lines 682--682
+[]                \TU/lmtt/m/n/12.045 if cfg.method != []bdf2[] or prev_t is No
+ne or previous_dt is None:[] 
+ []
+
+[37]
+Overfull \hbox (16.19702pt too wide) in paragraph at lines 682--682
+[]                        \TU/lmtt/m/n/12.045 or float(end_c.max()) > float(mid
+_c.max()) + limit):[] 
+ []
+
+
+Overfull \hbox (9.99387pt too wide) in paragraph at lines 682--682
+[]                    \TU/lmtt/m/n/12.045 raise StepFailure([]endpoint indicato
+r is not monotone[])[] 
+ []
+
+
+Overfull \hbox (72.0256pt too wide) in paragraph at lines 682--682
+[]                \TU/lmtt/m/n/12.045 self.stats[[]max_step_error[]] = max(self
+.stats[[]max_step_error[]], err)[] 
+ []
+
+
+Overfull \hbox (72.02559pt too wide) in paragraph at lines 682--682
+[]                    \TU/lmtt/m/n/12.045 raise StepFailure([]step error remain
+s above tolerance at min_dt[])[] 
+ []
+
+
+Overfull \hbox (16.19699pt too wide) in paragraph at lines 682--682
+[]                \TU/lmtt/m/n/12.045 if retry >= cfg.max_retries or dt <= cfg.
+min_dt * 1.0000001:[] 
+ []
+
+
+Overfull \hbox (16.19704pt too wide) in paragraph at lines 682--682
+[]               []\TU/lmtt/m/n/12.045 max_C[]: float(c.max()), []wet_fraction[
+]: float(self._wet(c)),[] 
+ []
+
+[38]
+Overfull \hbox (90.63503pt too wide) in paragraph at lines 682--682
+[]                \TU/lmtt/m/n/12.045 wet += crossing ** 2 - lo ** 2 if a >= 0.
+15 else hi ** 2 - crossing ** 2[] 
+ []
+
+
+Overfull \hbox (22.4002pt too wide) in paragraph at lines 682--682
+[]                []\TU/lmtt/m/n/12.045 max_C[]: float(c.max()), []wet_fraction
+[]: float(self._wet(c)),[] 
+ []
+
+
+Overfull \hbox (59.61917pt too wide) in paragraph at lines 682--682
+[]                                             \TU/lmtt/m/n/12.045 round(t / cf
+g.output_stride)) < 1e-8):[] 
+ []
+
+[39]
+Overfull \hbox (59.6071pt too wide) in paragraph at lines 682--682
+[]                                                        \TU/lmtt/m/n/12.045 r
+ound(t / 21600.0)) < 1e-8:[] 
+ []
+
+
+Overfull \hbox (22.40022pt too wide) in paragraph at lines 682--682
+[]            \TU/lmtt/m/n/12.045 summary[str(round(t))] = self.snapshot(t, tem
+p, c, compact=False)[] 
+ []
+
+
+Overfull \hbox (16.19707pt too wide) in paragraph at lines 682--682
+[]    \TU/lmtt/m/n/12.045 def _locate_endpoint(self, t, old_t, old_c, prev_t, p
+rev_c, previous_dt,[] 
+ []
+
+
+Overfull \hbox (34.80653pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 return rt, rc, {[]left_s[]: float(t + left), []ri
+ght_s[]: float(t + right),[] 
+ []
+
+
+Overfull \hbox (34.80653pt too wide) in paragraph at lines 682--682
+[]                        []\TU/lmtt/m/n/12.045 left_max_C[]: left_max, []right
+_max_C[]: float(rc.max())}[] 
+ []
+
+[40]
+Overfull \hbox (16.17291pt too wide) in paragraph at lines 682--682
+[]            \TU/lmtt/m/n/12.045 targets = [s - t for s in (100, 300, 600, 900
+, 1200, 1500, 1800,[] 
+ []
+
+
+Overfull \hbox (34.80653pt too wide) in paragraph at lines 682--682
+[]                \TU/lmtt/m/n/12.045 nt, nc, used_dt, method, step_error, _ = 
+self._step_with_error([] 
+ []
+
+
+Overfull \hbox (22.40018pt too wide) in paragraph at lines 682--682
+[]                    \TU/lmtt/m/n/12.045 t, temp, c, prev_t, prev_c, previous_
+dt, used_dt, nt, nc)[] 
+ []
+
+[41]
+Overfull \hbox (22.40024pt too wide) in paragraph at lines 682--682
+[]            \TU/lmtt/m/n/12.045 radial_violation = max(radial_violation, floa
+t(np.diff(c).max()))[] 
+ []
+
+
+Overfull \hbox (34.80658pt too wide) in paragraph at lines 682--682
+[]            \TU/lmtt/m/n/12.045 short.append(self.snapshot(t, temp, c, compac
+t=cfg.compact_output))[] 
+ []
+
+
+Overfull \hbox (47.21288pt too wide) in paragraph at lines 682--682
+[]                           []\TU/lmtt/m/n/12.045 max_radial_monotonicity_viol
+ation[]: radial_violation,[] 
+ []
+
+
+Overfull \hbox (16.19704pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 return {[]config[]: asdict(cfg), []final[]: final
+, []endpoint[]: endpoint,[] 
+ []
+
+[42]
+Overfull \hbox (9.99391pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 raw_grid = np.asarray(snapshot[[]sample_distances
+_cm[]], dtype=float)[] 
+ []
+
+
+Overfull \hbox (84.43199pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 valid = np.array([v is not None and np.isfinite(f
+loat(v)) for v in raw_values])[] 
+ []
+
+
+Overfull \hbox (34.8066pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 values = np.asarray([float(v) for v in raw_values
+[valid]], dtype=float)[] 
+ []
+
+
+Overfull \hbox (140.26051pt too wide) in paragraph at lines 682--682
+[]        \TU/lmtt/m/n/12.045 return [None if d > snapshot[[]radius_cm[]] + 1e-
+10 else float(np.interp(d, grid, values))[] 
+ []
+
+
+Overfull \hbox (53.4161pt too wide) in paragraph at lines 682--682
+[]    \TU/lmtt/m/n/12.045 x = np.asarray(snapshot.get([]x[], np.linspace(0.0, 1
+.0, len(snapshot[field]))))[] 
+ []
+
+
+Overfull \hbox (34.80661pt too wide) in paragraph at lines 911--911
+[]\TU/lmtt/m/n/12.045 """Independent BDF2 reference for P2. No import of model.
+Solver or its kernels.[] 
+ []
+
+
+Overfull \hbox (41.00981pt too wide) in paragraph at lines 911--911
+[]\TU/lmtt/m/n/12.045 Shared: configuration values, tabulated input interpolati
+on, NumPy/SciPy LAPACK.[] 
+ []
+
+
+Overfull \hbox (9.99393pt too wide) in paragraph at lines 911--911
+[]\TU/lmtt/m/n/12.045 Independent: material laws, physical annulus matrix, quad
+rature, iteration,[] 
+ []
+
+
+Overfull \hbox (28.60345pt too wide) in paragraph at lines 911--911
+[]\TU/lmtt/m/n/12.045 step doubling, BDF history, event bisection and diagnosti
+c state construction.[] 
+ []
+
+
+Overfull \hbox (22.40027pt too wide) in paragraph at lines 911--911
+[]\TU/lmtt/m/n/12.045 This checks implementation agreement, not correctness of 
+shared physics/data.[] 
+ []
+
+[43] [44]
+Overfull \hbox (22.40024pt too wide) in paragraph at lines 911--911
+[]        \TU/lmtt/m/n/12.045 return (prefactor*np.exp(-activation/cq - 3850/tf
+[:, None])) @ self.w[] 
+ []
+
+
+Overfull \hbox (41.00977pt too wide) in paragraph at lines 911--911
+[]    \TU/lmtt/m/n/12.045 def solve(self, old, older, face, capacity, radius, b
+oundary, ambient, bdf):[] 
+ []
+
+
+Overfull \hbox (28.60341pt too wide) in paragraph at lines 911--911
+[]        \TU/lmtt/m/n/12.045 mass, conduct, outer = self.geometry(face, capaci
+ty, radius, boundary)[] 
+ []
+
+[45]
+Overfull \hbox (90.63516pt too wide) in paragraph at lines 911--911
+[]    \TU/lmtt/m/n/12.045 def residual(self, new, old, older, face, capacity, r
+adius, boundary, ambient, bdf):[] 
+ []
+
+
+Overfull \hbox (28.60341pt too wide) in paragraph at lines 911--911
+[]        \TU/lmtt/m/n/12.045 mass, conduct, outer = self.geometry(face, capaci
+ty, radius, boundary)[] 
+ []
+
+
+Overfull \hbox (78.22879pt too wide) in paragraph at lines 911--911
+[]            \TU/lmtt/m/n/12.045 if not np.isfinite(nt).all() or not np.isfini
+te(nc).all() or min(nc) <= 0:[] 
+ []
+
+
+Overfull \hbox (16.19708pt too wide) in paragraph at lines 911--911
+[]            \TU/lmtt/m/n/12.045 error = max(np.max(abs(nt-guess_t))/50, np.ma
+x(abs(nc-guess_c)))[] 
+ []
+
+
+Overfull \hbox (3.79066pt too wide) in paragraph at lines 911--911
+[]                \TU/lmtt/m/n/12.045 rc = self.residual(nc, c, oc, self.face_d
+iffusion(nc, nt),[] 
+ []
+
+
+Overfull \hbox (3.7906pt too wide) in paragraph at lines 911--911
+[]                                   \TU/lmtt/m/n/12.045 np.ones(len(c)), radiu
+s, 8e-7, ca, bdf)[] 
+ []
+
+[46]
+Overfull \hbox (78.22878pt too wide) in paragraph at lines 911--911
+[]                \TU/lmtt/m/n/12.045 if max(np.max(abs(rt))/50, np.max(abs(rc)
+)) <= cfg.residual_tolerance:[] 
+ []
+
+
+Overfull \hbox (152.66682pt too wide) in paragraph at lines 911--911
+[]                    \TU/lmtt/m/n/12.045 for name, value in [([]heat[], np.max
+(abs(rt))), ([]moisture[], np.max(abs(rc)))]:[] 
+ []
+
+
+Overfull \hbox (16.19702pt too wide) in paragraph at lines 911--911
+[]                        \TU/lmtt/m/n/12.045 self.stats[key] = max(self.stats[
+key], float(value))[] 
+ []
+
+
+Overfull \hbox (72.0256pt too wide) in paragraph at lines 911--911
+[]                        \TU/lmtt/m/n/12.045 self.stats[[]max_mass_balance_res
+idual[]], abs(float(sum(rc))))[] 
+ []
+
+
+Overfull \hbox (22.40018pt too wide) in paragraph at lines 911--911
+[]                \TU/lmtt/m/n/12.045 nt, nc, method = self.advance(t, temp, c,
+ older, last_dt, dt)[] 
+ []
+
+
+Overfull \hbox (3.79065pt too wide) in paragraph at lines 911--911
+[]                \TU/lmtt/m/n/12.045 ht, hc, _ = self.advance(t, temp, c, olde
+r, last_dt, dt/2)[] 
+ []
+
+
+Overfull \hbox (34.80649pt too wide) in paragraph at lines 911--911
+[]                \TU/lmtt/m/n/12.045 et, ec, _ = self.advance(t+dt/2, ht, hc, 
+(temp, c), dt/2, dt/2)[] 
+ []
+
+[47]
+Overfull \hbox (90.6231pt too wide) in paragraph at lines 911--911
+[]                \TU/lmtt/m/n/12.045 dt = max(cfg.min_dt, min(dt/2, .9*dt*np.s
+qrt(cfg.step_tolerance/error)))[] 
+ []
+
+
+Overfull \hbox (3.79066pt too wide) in paragraph at lines 911--911
+[]                \TU/lmtt/m/n/12.045 if retry == cfg.max_retries or dt <= cfg.
+min_dt*1.0000001:[] 
+ []
+
+
+Overfull \hbox (3.79066pt too wide) in paragraph at lines 911--911
+[]                         []\TU/lmtt/m/n/12.045 left_max_C[]: clo, []right_max
+_C[]: float(max(nc))}[] 
+ []
+
+[48]
+Overfull \hbox (41.00975pt too wide) in paragraph at lines 911--911
+[]                \TU/lmtt/m/n/12.045 wet += crossing**2-left**2 if a >= .15 el
+se right**2-crossing**2[] 
+ []
+
+
+Overfull \hbox (72.02563pt too wide) in paragraph at lines 911--911
+[]        \TU/lmtt/m/n/12.045 return dict(t=float(t), radius_cm=100*self.inputs
+.radius(t, self.cfg.shrink),[] 
+ []
+
+
+Overfull \hbox (115.44781pt too wide) in paragraph at lines 911--911
+[]                    \TU/lmtt/m/n/12.045 max_C=float(max(c)), mean_C=float(2*s
+elf.dv@c), wet_fraction=float(wet))[] 
+ []
+
+
+Overfull \hbox (84.38374pt too wide) in paragraph at lines 911--911
+[]        \TU/lmtt/m/n/12.045 desired = (100, 300, 600, 900, 1200, 1500, 1800, 
+3600, 5400, 7200, 9000, 10800)[] 
+ []
+
+
+Overfull \hbox (34.80652pt too wide) in paragraph at lines 911--911
+[]                     \TU/lmtt/m/n/12.045 min([s-t for s in desired if s>t+1e-
+8] or [cfg.max_time]))[] 
+ []
+
+
+Overfull \hbox (72.02557pt too wide) in paragraph at lines 911--911
+[]            \TU/lmtt/m/n/12.045 nt, nc, method, dt = self.controlled_step(t, 
+temp, c, older, last_dt, dt)[] 
+ []
+
+
+Overfull \hbox (90.63507pt too wide) in paragraph at lines 911--911
+[]                \TU/lmtt/m/n/12.045 nt, nc, endpoint = self.endpoint(t, temp,
+ c, older, last_dt, dt, nt, nc)[] 
+ []
+
+[49]
+Overfull \hbox (34.80656pt too wide) in paragraph at lines 911--911
+[]            \TU/lmtt/m/n/12.045 min_c, max_c = min(min_c, float(min(c))), max
+(max_c, float(max(c)))[] 
+ []
+
+
+Overfull \hbox (72.02562pt too wide) in paragraph at lines 911--911
+[]            \TU/lmtt/m/n/12.045 min_t, max_t = min(min_t, float(min(temp))), 
+max(max_t, float(max(temp)))[] 
+ []
+
+
+Overfull \hbox (22.40028pt too wide) in paragraph at lines 911--911
+[]        \TU/lmtt/m/n/12.045 self.stats.update(runtime_s=time.perf_counter()-s
+tarted, min_C=min_c,[] 
+ []
+
+
+Overfull \hbox (22.40022pt too wide) in paragraph at lines 911--911
+[]                    \TU/lmtt/m/n/12.045 endpoint=endpoint, stats=self.stats, 
+summaries=summaries)[] 
+ []
+
+
+Overfull \hbox (41.0098pt too wide) in paragraph at lines 1007--1007
+[]\TU/lmtt/m/n/12.045 """Aggregate P2 evidence; never call incomplete/failed ev
+idence a final pass."""[] 
+ []
+
+
+Overfull \hbox (115.44783pt too wide) in paragraph at lines 1007--1007
+[]          \TU/lmtt/m/n/12.045 [[]tight[],[]reference[]]+[f[]h{h:g}_hm{m:g}[] 
+for h in (.5,1.,2.) for m in (.5,1.,2.)]][] 
+ []
+
+[50]
+Overfull \hbox (165.07326pt too wide) in paragraph at lines 1007--1007
+[]    \TU/lmtt/m/n/12.045 runs={p.stem:json.loads(p.read_text(encoding=[]utf-8[
+])) for p in (ROOT/[]p2/runs[]).glob([]*.json[])}[] 
+ []
+
+
+Overfull \hbox (264.29982pt too wide) in paragraph at lines 1007--1007
+[]    \TU/lmtt/m/n/12.045 lines=[[]# P2  \TU/FangSong(0)/m/n/12.045 数 值 终 检 记 录
+ []\TU/lmtt/m/n/12.045 ,[][], [] \TU/FangSong(0)/m/n/12.045 模 型  \TU/lmtt/m/n/1
+2.045 v0.4 \TU/FangSong(0)/m/n/12.045 ； 发 布  \TU/lmtt/m/n/12.045 v0.6-submit \T
+U/FangSong(0)/m/n/12.045 。 \TU/lmtt/m/n/12.045 161  \TU/FangSong(0)/m/n/12.045 
+节 点 ， 表 面 加 密 指 数  \TU/lmtt/m/n/12.045 2 \TU/FangSong(0)/m/n/12.045 ， 事 件 区 间 不
+ 宽 于  \TU/lmtt/m/n/12.045 0.02 s \TU/FangSong(0)/m/n/12.045 。 []\TU/lmtt/m/n/12
+.045 ,[] 
+ []
+
+
+Overfull \hbox (59.61916pt too wide) in paragraph at lines 1007--1007
+[]        [] \TU/FangSong(0)/m/n/12.045 问 题  \TU/lmtt/m/n/12.045 3  \TU/FangSon
+g(0)/m/n/12.045 全 程 逐 秒 落 点 ； 问 题  \TU/lmtt/m/n/12.045 4  \TU/FangSong(0)/m/n/1
+2.045 每 分 钟 落 点 、 前  \TU/lmtt/m/n/12.045 3 h  \TU/FangSong(0)/m/n/12.045 上 限  \
+TU/lmtt/m/n/12.045 1 s \TU/FangSong(0)/m/n/12.045 、 后 期 上 限  \TU/lmtt/m/n/12.04
+5 15 s \TU/FangSong(0)/m/n/12.045 。 []\TU/lmtt/m/n/12.045 ,[] 
+ []
+
+
+Overfull \hbox (450.40688pt too wide) in paragraph at lines 1007--1007
+[]        [] \TU/FangSong(0)/m/n/12.045 诊 断 只 减 少 状 态 存 储 ， 不 改 变 积 分 落 点 。 容 差
+ 与 独 立 对 照 的 终 点 差 验 收 线 为  \TU/lmtt/m/n/12.045 1 s \TU/FangSong(0)/m/n/12.045 
+； 独 立 状 态 每  \TU/lmtt/m/n/12.045 6 h  \TU/FangSong(0)/m/n/12.045 对 照 ， 温 差 线  \
+TU/lmtt/m/n/12.045 1e-4 °C \TU/FangSong(0)/m/n/12.045 、 含 水 率 差 线  \TU/lmtt/m/n
+/12.045 1e-7 kg/kg \TU/FangSong(0)/m/n/12.045 。 []\TU/lmtt/m/n/12.045 ,[][],[] 
+
+ []
+
+Missing character: There is no η (U+03B7) in font [lmmono12-regular]:!
+
+Overfull \hbox (255.29007pt too wide) in paragraph at lines 1007--1007
+[]        []\TU/lmtt/m/n/12.045 |  \TU/FangSong(0)/m/n/12.045 问 题  \TU/lmtt/m/n
+/12.045 |  \TU/FangSong(0)/m/n/12.045 基 准 \TU/lmtt/m/n/12.045 /h |  \TU/FangSon
+g(0)/m/n/12.045 收 紧  \TU/lmtt/m/n/12.045 η/h |  \TU/FangSong(0)/m/n/12.045 终 点 
+差 \TU/lmtt/m/n/12.045 /s |  \TU/FangSong(0)/m/n/12.045 独 立  \TU/lmtt/m/n/12.045
+ BDF2/h |  \TU/FangSong(0)/m/n/12.045 终 点 差 \TU/lmtt/m/n/12.045 /s |[],[]| --- 
+| --- | --- | --- | --- | --- |[]][] 
+ []
+
+
+Overfull \hbox (34.8066pt too wide) in paragraph at lines 1007--1007
+[]    \TU/lmtt/m/n/12.045 # Evidence is accepted only while its producing code 
+and input bytes match.[] 
+ []
+
+
+Overfull \hbox (115.43582pt too wide) in paragraph at lines 1007--1007
+[]            \TU/lmtt/m/n/12.045 assert hashlib.sha256((ROOT/name).read_bytes(
+)).hexdigest()==digest,(label,name)[] 
+ []
+
+
+Overfull \hbox (202.28026pt too wide) in paragraph at lines 1007--1007
+[]            \TU/lmtt/m/n/12.045 assert hashlib.sha256((ROOT.parent/[] \TU/Fan
+gSong(0)/m/n/12.045 附 件 []\TU/lmtt/m/n/12.045 /name).read_bytes()).hexdigest()=
+=digest,(label,name)[] 
+ []
+
+
+Overfull \hbox (9.98183pt too wide) in paragraph at lines 1007--1007
+[]        \TU/lmtt/m/n/12.045 diff=lambda r: f[]{r["final"]["t"]-BASE[q]:+.6f}[
+] if r else [] \TU/FangSong(0)/m/n/12.045 待 完 成 [][] 
+ []
+
+
+Overfull \hbox (233.28406pt too wide) in paragraph at lines 1007--1007
+[]        \TU/lmtt/m/n/12.045 lines.append(f[]| {q} | {BASE[q]/3600:.9f} | {fmt
+(tight)} | {diff(tight)} | {fmt(ref)} | {diff(ref)} |[])[] 
+ []
+
+
+Overfull \hbox (9.9939pt too wide) in paragraph at lines 1007--1007
+[]            \TU/lmtt/m/n/12.045 times=sorted(set(b[[]summaries[]])&set(ref[[]
+summaries[]]),key=int)[] 
+ []
+
+
+Overfull \hbox (382.18428pt too wide) in paragraph at lines 1007--1007
+[]            \TU/lmtt/m/n/12.045 errs={f:max(float(np.max(abs(np.asarray(b[[]s
+ummaries[]][t][f])-ref[[]summaries[]][t][f]))) for t in times) for f in ([]T[],
+[]C[])}[] 
+ []
+
+
+Overfull \hbox (9.99388pt too wide) in paragraph at lines 1007--1007
+[]            \TU/lmtt/m/n/12.045 metrics[str(q)]={[]time_difference_s[]:ref[[]
+final[]][[]t[]]-BASE[q],[] 
+ []
+
+
+Overfull \hbox (127.85414pt too wide) in paragraph at lines 1007--1007
+[]                             []\TU/lmtt/m/n/12.045 sample_times_s[]:list(map(
+int,times)), []max_abs_difference[]:errs}[] 
+ []
+
+
+Overfull \hbox (208.4953pt too wide) in paragraph at lines 1007--1007
+[]    \TU/lmtt/m/n/12.045 lines += [[][],[]## 3×3  \TU/FangSong(0)/m/n/12.045 边
+ 界 扫 描 []\TU/lmtt/m/n/12.045 ,[][], []| h/h0 | hm/hm0 |  \TU/FangSong(0)/m/n/12
+.045 问 题 \TU/lmtt/m/n/12.045 3/h |  \TU/FangSong(0)/m/n/12.045 问 题 \TU/lmtt/m/n
+/12.045 4/h |[],[]| --- | --- | --- | --- |[]][] 
+ []
+
+[51]
+Overfull \hbox (313.92525pt too wide) in paragraph at lines 1007--1007
+[]                \TU/lmtt/m/n/12.045 vals.append(([]>[] if r[[]status[]]==[]ri
+ght_censored[] else [][])+f[]{r["final"]["t"]/3600:.6f}[] if r else [] \TU/Fang
+Song(0)/m/n/12.045 待 完 成 []\TU/lmtt/m/n/12.045 )[] 
+ []
+
+
+Overfull \hbox (47.21295pt too wide) in paragraph at lines 1007--1007
+[]        \TU/lmtt/m/n/12.045 checks += [s.get([]min_C[],1)>0,s.get([]max_mass_
+balance_residual[],1)<1e-10][] 
+ []
+
+
+Overfull \hbox (171.2764pt too wide) in paragraph at lines 1007--1007
+[]        \TU/lmtt/m/n/12.045 if e: checks += [e[[]left_max_C[]]>=.15,e[[]right
+_max_C[]]<.15,e[[]right_s[]]-e[[]left_s[]]<=.020001][] 
+ []
+
+
+Overfull \hbox (22.40027pt too wide) in paragraph at lines 1007--1007
+[]    \TU/lmtt/m/n/12.045 report={[]complete[]:complete,[]cases_present[]:len(s
+et(EXPECTED)&set(runs)),[] 
+ []
+
+
+Overfull \hbox (96.83835pt too wide) in paragraph at lines 1007--1007
+[]            []\TU/lmtt/m/n/12.045 missing[]:missing,[]checks_passed[]:all(che
+cks),[]reference_comparison[]:metrics}[] 
+ []
+
+
+Overfull \hbox (524.85712pt too wide) in paragraph at lines 1007--1007
+[]    \TU/lmtt/m/n/12.045 lines+=[[][],[]##  \TU/FangSong(0)/m/n/12.045 验 收 范 围
+ []\TU/lmtt/m/n/12.045 ,[][],f[] \TU/FangSong(0)/m/n/12.045 预 期  \TU/lmtt/m/n/1
+2.045 22  \TU/FangSong(0)/m/n/12.045 个 全 程 算 例 ， 已 完 成  \TU/lmtt/m/n/12.045 {re
+port["cases_present"]}  \TU/FangSong(0)/m/n/12.045 个 。 数 值 验 收 ： []\TU/lmtt/m/n
+/12.045 +([] \TU/FangSong(0)/m/n/12.045 通 过 。 [] \TU/lmtt/m/n/12.045 if complet
+e else [] \TU/FangSong(0)/m/n/12.045 尚 未 完 成 或 存 在 未 通 过 项 。 []\TU/lmtt/m/n/12.
+045 ),[] 
+ []
+
+
+Overfull \hbox (363.57454pt too wide) in paragraph at lines 1007--1007
+[]        [] \TU/FangSong(0)/m/n/12.045 独 立 参 考 程 序 不 调 用 主 程 序 的 求 解 、 通 量 、 \
+TU/lmtt/m/n/12.045 BDF  \TU/FangSong(0)/m/n/12.045 系 数 、 误 差 控 制 或 事 件 定 位 代 码 
+； 共 享 题 给 输 入 插 值 、 配 置 及  \TU/lmtt/m/n/12.045 NumPy/SciPy  \TU/FangSong(0)/m/n
+/12.045 线 性 代 数 库 。 []\TU/lmtt/m/n/12.045 ,[] 
+ []
+
+
+Overfull \hbox (227.1047pt too wide) in paragraph at lines 1007--1007
+[]        [] \TU/FangSong(0)/m/n/12.045 残 差 检 查 针 对 有 效 浓 度 的 离 散 方 程 ， 不 证 明 实
+ 际 干 物 质 \TU/lmtt/m/n/12.045 / \TU/FangSong(0)/m/n/12.045 水 质 量 闭 合 。 参 数 扫 描 是
+ 情 景 分 析 ， 不 是 统 计 置 信 区 间 。 []\TU/lmtt/m/n/12.045 ,[] 
+ []
+
+
+Overfull \hbox (115.44766pt too wide) in paragraph at lines 1007--1007
+[]        [] \TU/FangSong(0)/m/n/12.045 本 记 录 只 裁 定 数 值  \TU/lmtt/m/n/12.045 P2
+ \TU/FangSong(0)/m/n/12.045 ； 论 文 、 结 果 表 、 \TU/lmtt/m/n/12.045 PDF  \TU/FangSo
+ng(0)/m/n/12.045 全 页 视 觉 检 查 与 打 包 验 收 另 记 于 发 布 验 收 记 录 。 []\TU/lmtt/m/n/12.04
+5 ,[] 
+ []
+
+
+Overfull \hbox (103.04144pt too wide) in paragraph at lines 1007--1007
+[]        [] \TU/FangSong(0)/m/n/12.045 独 立 状 态 比 较 ： []\TU/lmtt/m/n/12.045 , [
+][][][]json[],json.dumps(metrics,ensure_ascii=False,indent=2),[][][][][]][] 
+ []
+
+
+Overfull \hbox (189.88594pt too wide) in paragraph at lines 1007--1007
+[]    \TU/lmtt/m/n/12.045 (ROOT/[]p2/summary.json[]).write_text(json.dumps(repo
+rt,ensure_ascii=False,indent=2),encoding=[]utf-8[])[] 
+ []
+
+
+Overfull \hbox (320.15257pt too wide) in paragraph at lines 1007--1007
+[]    \TU/lmtt/m/n/12.045 (ROOT.parent/([]P2_final_record.md[] if complete else
+ []P2_progress.md[])).write_text([]\n[].join(lines)+[]\n[],encoding=[]utf-8[])[
+] 
+ []
+
+
+Overfull \hbox (22.40027pt too wide) in paragraph at lines 1007--1007
+[]        \TU/lmtt/m/n/12.045 (ROOT.parent/[] \TU/FangSong(0)/m/n/12.045 完 整 论 
+文 \TU/lmtt/m/n/12.045 -LaTeX/figs[]).mkdir(parents=True,exist_ok=True)[] 
+ []
+
+
+Overfull \hbox (258.10876pt too wide) in paragraph at lines 1007--1007
+[]            \TU/lmtt/m/n/12.045 a=np.array([[runs[f[]q{q}_h{h:g}_hm{m:g}[]][[
+]final[]][[]t[]]/3600 for m in (.5,1.,2.)] for h in (.5,1.,2.)])[] 
+ []
+
+
+Overfull \hbox (872.23502pt too wide) in paragraph at lines 1007--1007
+[]            \TU/lmtt/m/n/12.045 ax.set(xticks=range(3),xticklabels=[[]0.5[],[
+]1[],[]2[]],yticks=range(3),yticklabels=[[]0.5[],[]1[],[]2[]],xlabel=[]Mass tra
+nsfer multiplier[],ylabel=[]Heat transfer multiplier[],title=f[]Question {q}: d
+rying time (h)[])[] 
+ []
+
+
+Overfull \hbox (512.45094pt too wide) in paragraph at lines 1007--1007
+[]                \TU/lmtt/m/n/12.045 for j in range(3): ax.text(j,i,f[]{a[i,j]
+:.3f}[],ha=[]center[],va=[]center[],color=[]white[] if a[i,j]>(a.max()+a.min())
+/2 else []black[],fontsize=11)[] 
+ []
+
+
+Overfull \hbox (146.46371pt too wide) in paragraph at lines 1007--1007
+[]            \TU/lmtt/m/n/12.045 fig.savefig(ROOT.parent/f[] \TU/FangSong(0)/m
+/n/12.045 完 整 论 文 \TU/lmtt/m/n/12.045 -LaTeX/figs/p2_boundary_sensitivity.{ext}
+[],dpi=180)[] 
+ []
+
+[52]
+Overfull \hbox (493.81734pt too wide) in paragraph at lines 1007--1007
+[]            \TU/lmtt/m/n/12.045 rows.append(f"{q}&{BASE[q]/3600:.4f}&{tight[[
+]final[]][[]t[]]/3600:.4f}&{tight[[]final[]][[]t[]]-BASE[q]:+.4f}&{ref[[]final[
+]][[]t[]]-BASE[q]:+.4f}\\\\")[] 
+ []
+
+
+Overfull \hbox (227.10498pt too wide) in paragraph at lines 1007--1007
+[]        \TU/lmtt/m/n/12.045 tex=[]\n[].join([r[]\begin{table}[H]\centering\sm
+all\caption{P2  \TU/FangSong(0)/m/n/12.045 容 差 及 独 立  \TU/lmtt/m/n/12.045 BDF2 
+ \TU/FangSong(0)/m/n/12.045 终 点 对 照 \TU/lmtt/m/n/12.045 }\label{tab:p2}[],[] 
+ []
+
+
+Overfull \hbox (425.60655pt too wide) in paragraph at lines 1007--1007
+[]          \TU/lmtt/m/n/12.045 r[]\begin{tabular}{rrrrr}\toprule  \TU/FangSong
+(0)/m/n/12.045 问 题 \TU/lmtt/m/n/12.045 & \TU/FangSong(0)/m/n/12.045 基 准 \TU/lmt
+t/m/n/12.045 /h& \TU/FangSong(0)/m/n/12.045 收 紧 容 差 \TU/lmtt/m/n/12.045 /h& \TU
+/FangSong(0)/m/n/12.045 收 紧 差 \TU/lmtt/m/n/12.045 /s& \TU/FangSong(0)/m/n/12.04
+5 独 立 差 \TU/lmtt/m/n/12.045 /s\\\midrule[]]+rows+[r[]\bottomrule\end{tabular}\e
+nd{table}[]])[] 
+ []
+
+
+Overfull \hbox (65.82245pt too wide) in paragraph at lines 1007--1007
+[]        \TU/lmtt/m/n/12.045 (ROOT.parent/[] \TU/FangSong(0)/m/n/12.045 完 整 论 
+文 \TU/lmtt/m/n/12.045 -LaTeX/p2_table.tex[]).write_text(tex,encoding=[]utf-8[])
+[] 
+ []
+
+
+Overfull \hbox (9.99391pt too wide) in paragraph at lines 1153--1153
+[]\TU/lmtt/m/n/12.045 """Submission validation of the frozen v0.4 model. Run: p
+ython p2_study.py.[] 
+ []
+
+
+Overfull \hbox (34.80663pt too wide) in paragraph at lines 1153--1153
+[]\TU/lmtt/m/n/12.045 The output landing clock, integrator, mesh and endpoint c
+ontract are unchanged.[] 
+ []
+
+[53]
+Overfull \hbox (16.19702pt too wide) in paragraph at lines 1153--1153
+[]            \TU/lmtt/m/n/12.045 self.scaled_boundary(boundary), ambient, radi
+us, dt, a0, a1, a2)[] 
+ []
+
+
+Overfull \hbox (16.19702pt too wide) in paragraph at lines 1153--1153
+[]            \TU/lmtt/m/n/12.045 self.scaled_boundary(boundary), ambient, radi
+us, dt, a0, a1, a2)[] 
+ []
+
+
+Overfull \hbox (16.19707pt too wide) in paragraph at lines 1153--1153
+[]        \TU/lmtt/m/n/12.045 # The frozen kernel[]s scalar diagnostic uses the
+ nominal hm. Correct[] 
+ []
+
+
+Overfull \hbox (9.9939pt too wide) in paragraph at lines 1153--1153
+[]        \TU/lmtt/m/n/12.045 # that diagnostic as well as the two assembled bo
+undary conditions.[] 
+ []
+
+[54]
+Overfull \hbox (9.9939pt too wide) in paragraph at lines 1153--1153
+[]        \TU/lmtt/m/n/12.045 self.stats[[]max_mass_balance_residual[]] = max(o
+ld_balance, balance)[] 
+ []
+
+
+Overfull \hbox (3.77867pt too wide) in paragraph at lines 1153--1153
+[]        \TU/lmtt/m/n/12.045 # Storage only: cfg.output_stride still controls 
+the same 1 s/60 s[] 
+ []
+
+
+Overfull \hbox (9.99387pt too wide) in paragraph at lines 1153--1153
+[]        \TU/lmtt/m/n/12.045 # mandatory landing grid inside Solver.run, inclu
+ding Q3 after 3 h.[] 
+ []
+
+[55]
+Overfull \hbox (28.60336pt too wide) in paragraph at lines 1153--1153
+[]                  []\TU/lmtt/m/n/12.045 final[]: solver.snapshot(t, temp, c),
+ []stats[]: solver.stats}[] 
+ []
+
+
+Overfull \hbox (78.2288pt too wide) in paragraph at lines 1153--1153
+[]    \TU/lmtt/m/n/12.045 tmp.write_text(json.dumps(result, ensure_ascii=False,
+ indent=2), encoding=[]utf-8[])[] 
+ []
+
+[56]
+Overfull \hbox (140.26053pt too wide) in paragraph at lines 1153--1153
+[]    \TU/lmtt/m/n/12.045 parser.add_argument([]--group[], choices=[[]scan[], [
+]tight[], []reference[], []all[]], default=[]all[])[] 
+ []
+
+
+Overfull \hbox (3.79063pt too wide) in paragraph at lines 1153--1153
+[]        \TU/lmtt/m/n/12.045 cases += [(f[]q{q}_tight[], q, 1e-5, 1., 1., Fals
+e) for q in (3, 4)][] 
+ []
+
+
+Overfull \hbox (28.60332pt too wide) in paragraph at lines 1153--1153
+[]                  \TU/lmtt/m/n/12.045 for q in (3, 4) for h in (.5, 1., 2.) f
+or m in (.5, 1., 2.)][] 
+ []
+
+
+Overfull \hbox (22.40016pt too wide) in paragraph at lines 1153--1153
+[]        \TU/lmtt/m/n/12.045 cases += [(f[]q{q}_reference[], q, 1e-4, 1., 1., 
+True) for q in (3, 4)][] 
+ []
+
+
+Overfull \hbox (3.79073pt too wide) in paragraph at lines 1153--1153
+[]        \TU/lmtt/m/n/12.045 futures = {pool.submit(run_case, spec): spec[0] f
+or spec in cases}[] 
+ []
+
+
+Overfull \hbox (34.80664pt too wide) in paragraph at lines 1197--1197
+[]\TU/lmtt/m/n/12.045 The q2_full trajectory is also the q3 fixed-radius trajec
+tory: one run provides[] 
+ []
+
+[57]
+Overfull \hbox (3.77869pt too wide) in paragraph at lines 1197--1197
+[]        []\TU/lmtt/m/n/12.045 q4_final[]: Config(material=4, shrink=True, n=1
+60, grid_power=2.0,[] 
+ []
+
+
+Overfull \hbox (3.79073pt too wide) in paragraph at lines 1197--1197
+[]        []\TU/lmtt/m/n/12.045 q4_coarse[]: Config(material=4, shrink=True, n=
+40, grid_power=2.0,[] 
+ []
+
+[58]
+Overfull \hbox (28.59138pt too wide) in paragraph at lines 1275--1275
+[]    \TU/lmtt/m/n/12.045 return {p.name: hashlib.sha256(p.read_bytes()).hexdig
+est() for p in paths}[] 
+ []
+
+
+Overfull \hbox (65.82246pt too wide) in paragraph at lines 1275--1275
+[]    \TU/lmtt/m/n/12.045 return provenance(sorted((ROOT.parent / [] \TU/FangSo
+ng(0)/m/n/12.045 附 件 [] \TU/lmtt/m/n/12.045 / [] \TU/FangSong(0)/m/n/12.045 附 件
+ \TU/lmtt/m/n/12.045 3[]).glob([]result*.xlsx[])))[] 
+ []
+
+
+Overfull \hbox (28.5914pt too wide) in paragraph at lines 1275--1275
+[]    \TU/lmtt/m/n/12.045 source_hash = hashlib.sha256((ROOT / []model.py[]).re
+ad_bytes()).hexdigest()[] 
+ []
+
+
+Overfull \hbox (96.83829pt too wide) in paragraph at lines 1275--1275
+[]    \TU/lmtt/m/n/12.045 inputs = provenance([ROOT.parent / [] \TU/FangSong(0)
+/m/n/12.045 附 件 [] \TU/lmtt/m/n/12.045 / n for n in ([] \TU/FangSong(0)/m/n/12.
+045 附 件 \TU/lmtt/m/n/12.045 1.xlsx[], [] \TU/FangSong(0)/m/n/12.045 附 件 \TU/lmt
+t/m/n/12.045 2.xlsx[])])[] 
+ []
+
+[59]
+Overfull \hbox (65.79831pt too wide) in paragraph at lines 1275--1275
+[]            \TU/lmtt/m/n/12.045 print([]CACHED[], name, round(result[[]final[
+]][[]t[]] / 3600, 6), flush=True)[] 
+ []
+
+[60]
+Overfull \hbox (34.80658pt too wide) in paragraph at lines 1275--1275
+[]                 \TU/lmtt/m/n/12.045 grid_power=args.power, early_dt=args.ear
+ly, late_dt=args.late,[] 
+ []
+
+
+Overfull \hbox (3.7907pt too wide) in paragraph at lines 1275--1275
+[]                 \TU/lmtt/m/n/12.045 max_time=args.max_time, output_stride=ar
+gs.output_stride,[] 
+ []
+
+
+Overfull \hbox (227.10498pt too wide) in paragraph at lines 1419--1419
+[]        \TU/lmtt/m/n/12.045 self.assertIsNotNone(importlib.util.find_spec([]m
+odel[]), []integral-flux solver is not implemented yet[])[] 
+ []
+
+
+Overfull \hbox (152.64282pt too wide) in paragraph at lines 1419--1419
+[]        \TU/lmtt/m/n/12.045 actual=integral_diffusivity(3,np.array([.05]),np.
+array([.15]),np.array([50.165]),order=16)[] 
+ []
+
+
+Overfull \hbox (59.6073pt too wide) in paragraph at lines 1419--1419
+[]        \TU/lmtt/m/n/12.045 self.assertAlmostEqual(float(actual[0])/2.5800977
+88700743e-10,1.,places=10)[] 
+ []
+
+
+Overfull \hbox (227.10498pt too wide) in paragraph at lines 1419--1419
+[]        \TU/lmtt/m/n/12.045 self.assertIsNotNone(importlib.util.find_spec([]m
+odel[]), []integral-flux solver is not implemented yet[])[] 
+ []
+
+
+Overfull \hbox (41.0098pt too wide) in paragraph at lines 1419--1419
+[]        \TU/lmtt/m/n/12.045 np.testing.assert_allclose(integral_diffusivity(3
+,c,c,t),ref,rtol=1e-13)[] 
+ []
+
+[61]
+Overfull \hbox (84.43204pt too wide) in paragraph at lines 1419--1419
+[]        \TU/lmtt/m/n/12.045 same=s.linear_step(np.full(41,.7),np.full(40,1e-8
+),np.ones(41),8e-7,.7,.02,30.)[] 
+ []
+
+
+Overfull \hbox (59.61931pt too wide) in paragraph at lines 1419--1419
+[]        \TU/lmtt/m/n/12.045 for _ in range(1000):u=s.linear_step(u,np.full(80
+,D),np.ones(81),h,0.,R,.1)[] 
+ []
+
+
+Overfull \hbox (65.81044pt too wide) in paragraph at lines 1419--1419
+[]        \TU/lmtt/m/n/12.045 a=np.array([.05,.15,1.]);b=np.array([.2,2.55,.06]
+);t=np.array([28.,50.,40.])[] 
+ []
+
+
+Overfull \hbox (47.2009pt too wide) in paragraph at lines 1419--1419
+[]        \TU/lmtt/m/n/12.045 np.testing.assert_allclose(f,integral_diffusivity
+(3,b,a,t,16),rtol=1e-13)[] 
+ []
+
+[62]
+Overfull \hbox (3.79074pt too wide) in paragraph at lines 1419--1419
+[]        \TU/lmtt/m/n/12.045 a=Solver(Config(**args,shrink=False),ConstantRadi
+usInputs()).run()[] 
+ []
+
+
+Overfull \hbox (16.18504pt too wide) in paragraph at lines 1419--1419
+[]        \TU/lmtt/m/n/12.045 np.testing.assert_allclose(actual[:4],[.6,13/30,4
+/15,.2],atol=1e-14)[] 
+ []
+
+
+Overfull \hbox (34.79451pt too wide) in paragraph at lines 1419--1419
+[]                             \TU/lmtt/m/n/12.045 output_stride=1,max_time=60,
+stop_dry=False)).run()[] 
+ []
+
+
+Overfull \hbox (9.98186pt too wide) in paragraph at lines 1419--1419
+[]        \TU/lmtt/m/n/12.045 self.assertEqual([s[[]t[]] for s in result[[]shor
+t[]]],list(range(61)))[] 
+ []
+
+[63]
+Overfull \hbox (53.41609pt too wide) in paragraph at lines 1419--1419
+[]                \TU/lmtt/m/n/12.045 np.testing.assert_array_equal(a[[]final[]
+][field],b[[]final[]][field])[] 
+ []
+
+
+Overfull \hbox (53.41617pt too wide) in paragraph at lines 1419--1419
+[]        \TU/lmtt/m/n/12.045 new=s.solve(old,old,np.full(40,1e-8),np.ones(41),
+.02,0.,0.,(1/30,-1/30,0))[] 
+ []
+
+
+Overfull \hbox (90.62308pt too wide) in paragraph at lines 1419--1419
+[]            \TU/lmtt/m/n/12.045 np.testing.assert_allclose(a[[]final[]][[]T[]
+],b[[]final[]][[]T[]],rtol=0,atol=1e-6)[] 
+ []
+
+
+Overfull \hbox (90.62308pt too wide) in paragraph at lines 1419--1419
+[]            \TU/lmtt/m/n/12.045 np.testing.assert_allclose(a[[]final[]][[]C[]
+],b[[]final[]][[]C[]],rtol=0,atol=1e-9)[] 
+ []
+
+[64] [65]
+Overfull \hbox (59.61934pt too wide) in paragraph at lines 1521--1521
+[]    \TU/lmtt/m/n/12.045 return values[j]+(values[j+1]-values[j])*(distance-gr
+id[j])/(grid[j+1]-grid[j])[] 
+ []
+
+
+Overfull \hbox (34.79454pt too wide) in paragraph at lines 1521--1521
+[]            []\TU/lmtt/m/n/12.045 max_state_rounding_error[]:0.,[]source_sha2
+56[]:sha(ROOT/[]model.py[])}[] 
+ []
+
+
+Overfull \hbox (28.60344pt too wide) in paragraph at lines 1521--1521
+[]    \TU/lmtt/m/n/12.045 for case,numbers in [([]q1_final[],[1]),([]q2_full[],
+[2,3]),([]q4_final[],[4])]:[] 
+ []
+
+
+Overfull \hbox (146.46368pt too wide) in paragraph at lines 1521--1521
+[]        \TU/lmtt/m/n/12.045 with gzip.open(ROOT/[]runs[]/f[]{case}.json.gz[],
+[]rt[],encoding=[]utf-8[]) as f:run=json.load(f)[] 
+ []
+
+
+Overfull \hbox (152.65486pt too wide) in paragraph at lines 1521--1521
+[]        \TU/lmtt/m/n/12.045 for name,digest in run[[]input_sha256[]].items():
+assert sha(ROOT.parent/[] \TU/FangSong(0)/m/n/12.045 附 件 []\TU/lmtt/m/n/12.045 
+/name)==digest[] 
+ []
+
+[66]
+Overfull \hbox (3.79073pt too wide) in paragraph at lines 1521--1521
+[]            \TU/lmtt/m/n/12.045 wb=openpyxl.load_workbook(book,read_only=True
+,data_only=False)[] 
+ []
+
+
+Overfull \hbox (16.197pt too wide) in paragraph at lines 1521--1521
+[]            \TU/lmtt/m/n/12.045 for title,field in zip(names,[[]T[],[]C[]] if
+ number<=2 else [[]C[]]):[] 
+ []
+
+
+Overfull \hbox (47.2129pt too wide) in paragraph at lines 1521--1521
+[]                \TU/lmtt/m/n/12.045 assert [c.value for c in header[1:22]]==[
+i/10 for i in range(21)][] 
+ []
+
+
+Overfull \hbox (103.04147pt too wide) in paragraph at lines 1521--1521
+[]                        \TU/lmtt/m/n/12.045 assert abs(snap[[]radius_cm[]]-10
+0*inp.radius(snap[[]t[]],True))<1e-12[] 
+ []
+
+
+Overfull \hbox (313.94937pt too wide) in paragraph at lines 1521--1521
+[]                        \TU/lmtt/m/n/12.045 expected=interp(snap,field,(j-1)/
+10) if j<=21 else (snap[field][-1] if j==22 else snap[[]radius_cm[]])[] 
+ []
+
+
+Overfull \hbox (96.83829pt too wide) in paragraph at lines 1521--1521
+[]                            \TU/lmtt/m/n/12.045 assert isinstance(value,(int,
+float)) and math.isfinite(value)[] 
+ []
+
+
+Overfull \hbox (78.22874pt too wide) in paragraph at lines 1521--1521
+[]                            \TU/lmtt/m/n/12.045 assert delta<=.00005000001,(n
+umber,count,j,value,expected)[] 
+ []
+
+
+Overfull \hbox (214.6986pt too wide) in paragraph at lines 1521--1521
+[]                            \TU/lmtt/m/n/12.045 report[[]max_state_rounding_e
+rror[]]=max(report[[]max_state_rounding_error[]],delta)[] 
+ []
+
+[67]
+Overfull \hbox (72.02559pt too wide) in paragraph at lines 1521--1521
+[]                \TU/lmtt/m/n/12.045 report[[]sheets[]].append({[]file[]:book.
+name,[]sheet[]:title,[]rows[]:count,[] 
+ []
+
+
+Overfull \hbox (84.432pt too wide) in paragraph at lines 1521--1521
+[]    \TU/lmtt/m/n/12.045 report.update(status=[]passed[],completed_utc=datetim
+e.now(timezone.utc).isoformat(),[] 
+ []
+
+
+Overfull \hbox (90.62312pt too wide) in paragraph at lines 1521--1521
+[]        \TU/lmtt/m/n/12.045 xlsx_sha256={f[]result{i}.xlsx[]:sha(ROOT/f[]resu
+lt{i}.xlsx[]) for i in range(1,5)})[] 
+ []
+
+
+Overfull \hbox (202.2923pt too wide) in paragraph at lines 1521--1521
+[]    \TU/lmtt/m/n/12.045 (ROOT/[]verification.json[]).write_text(json.dumps(re
+port,ensure_ascii=False,indent=2),encoding=[]utf-8[])[] 
+ []
+
+
+Overfull \hbox (16.1971pt too wide) in paragraph at lines 1614--1614
+[]\TU/lmtt/m/n/12.045 """Read-only structural diagnostics; not a new drying or 
+mass-balance model.[] 
+ []
+
+
+Overfull \hbox (16.19711pt too wide) in paragraph at lines 1614--1614
+[]\TU/lmtt/m/n/12.045 Conditional mass test: interpret the supplied rho(C) as w
+et bulk density and[] 
+ []
+
+
+Overfull \hbox (3.79073pt too wide) in paragraph at lines 1614--1614
+[]\TU/lmtt/m/n/12.045 hold length at 0.25 m. A violation diagnoses incompatible
+ interpretations;[] 
+ []
+
+
+Overfull \hbox (9.99391pt too wide) in paragraph at lines 1614--1614
+[]\TU/lmtt/m/n/12.045 these apparent masses must not be reported as measured or
+ predicted masses.[] 
+ []
+
+[68]
+Overfull \hbox (3.79074pt too wide) in paragraph at lines 1614--1614
+[]        []\TU/lmtt/m/n/12.045 dry_mass_ratio[]:(rho(3,.15)/1.15)/(rho(3,2.55)
+/3.55) if q==3 else[] 
+ []
+
+
+Overfull \hbox (9.9939pt too wide) in paragraph at lines 1614--1614
+[]      []\TU/lmtt/m/n/12.045 radius_cm[]:state[[]radius_cm[]],[]mean_dry_basis
+_C[]:float(2*weights@c),[] 
+ []
+
+[69]
+Overfull \hbox (78.21677pt too wide) in paragraph at lines 1614--1614
+[]        \TU/lmtt/m/n/12.045 for file in inputs:assert d[[]signature[]][[]inpu
+t_sha256[]][file.name]==sha(file)[] 
+ []
+
+
+Overfull \hbox (34.79451pt too wide) in paragraph at lines 1614--1614
+[]                \TU/lmtt/m/n/12.045 assert d[[]signature[]][[]source_sha256[]
+][[]model.py[]]==sha(source)[] 
+ []
+
+
+Overfull \hbox (127.84213pt too wide) in paragraph at lines 1614--1614
+[]                \TU/lmtt/m/n/12.045 for file in inputs:assert d[[]signature[]
+][[]input_sha256[]][file.name]==sha(file)[] 
+ []
+
+
+Overfull \hbox (3.77866pt too wide) in paragraph at lines 1614--1614
+[]                \TU/lmtt/m/n/12.045 row.append(d[[]final[]][[]t[]]/3600);run_
+hashes[p.name]=sha(p)[] 
+ []
+
+
+Overfull \hbox (65.82245pt too wide) in paragraph at lines 1614--1614
+[]        \TU/lmtt/m/n/12.045 scans[str(q)]={[]hours[]:matrix,[]min_h[]:float(a
+.min()),[]max_h[]:float(a.max()),[] 
+ []
+
+
+Overfull \hbox (134.05739pt too wide) in paragraph at lines 1614--1614
+[]          []\TU/lmtt/m/n/12.045 heat_only_range_h[]:float(np.ptp(a[:,1])), []
+mass_only_range_h[]:float(np.ptp(a[1,:])),[] 
+ []
+
+
+Overfull \hbox (152.66687pt too wide) in paragraph at lines 1614--1614
+[]          []\TU/lmtt/m/n/12.045 interpretation[]:[]deterministic scenarios; n
+o probability model or confidence coverage[]}[] 
+ []
+
+
+Overfull \hbox (127.85419pt too wide) in paragraph at lines 1614--1614
+[]      []\TU/lmtt/m/n/12.045 assumptions[]:[[]rho(C) conditionally treated as 
+wet bulk density[],[]fixed length 0.25 m[],[] 
+ []
+
+
+Overfull \hbox (53.41609pt too wide) in paragraph at lines 1614--1614
+[]        []\TU/lmtt/m/n/12.045 nodal annular quadrature[],[]no new time integr
+ation or result overwrite[]],[] 
+ []
+
+[70]
+Overfull \hbox (196.08913pt too wide) in paragraph at lines 1614--1614
+[]      []\TU/lmtt/m/n/12.045 attribution[]:[]Both material laws and geometry d
+iffer; difference is not a pure shrinkage effect.[],[] 
+ []
+
+
+Overfull \hbox (53.39204pt too wide) in paragraph at lines 1614--1614
+[]      []\TU/lmtt/m/n/12.045 input_sha256[]:{p.name:sha(p) for p in inputs},[]
+evidence_sha256[]:run_hashes}[] 
+ []
+
+
+Overfull \hbox (146.46373pt too wide) in paragraph at lines 1614--1614
+[]        \TU/lmtt/m/n/12.045 args.output.write_text(json.dumps(out,ensure_asci
+i=False,indent=2)+[]\n[],encoding=[]utf-8[])[] 
+ []
+
+) [71] (build/main.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2022/07/14>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 24891 strings out of 468168
+ 581652 string characters out of 5436524
+ 978925 words of memory out of 5000000
+ 53129 multiletter control sequences out of 15000+600000
+ 642752 words of font info for 138 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 93i,12n,111p,465b,930s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on build/main.xdv (71 pages, 922644 bytes).

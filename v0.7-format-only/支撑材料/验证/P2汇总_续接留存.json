@@ -1,0 +1,45 @@
+{
+  "complete": true,
+  "cases_present": 22,
+  "missing": [],
+  "checks_passed": true,
+  "reference_comparison": {
+    "3": {
+      "time_difference_s": 0.0,
+      "sample_times_s": [
+        0,
+        21600,
+        43200,
+        64800,
+        86400,
+        108000,
+        129600,
+        151200,
+        172800,
+        194400
+      ],
+      "max_abs_difference": {
+        "T": 3.5932146147388266e-11,
+        "C": 1.0796918914479647e-12
+      }
+    },
+    "4": {
+      "time_difference_s": 0.0,
+      "sample_times_s": [
+        0,
+        21600,
+        43200,
+        64800,
+        86400,
+        108000,
+        129600,
+        151200,
+        172800
+      ],
+      "max_abs_difference": {
+        "T": 5.447731155072688e-11,
+        "C": 3.6645686485314855e-13
+      }
+    }
+  }
+}

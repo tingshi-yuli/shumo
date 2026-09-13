@@ -1,0 +1,58 @@
+{
+  "status": "passed",
+  "sheets": [
+    {
+      "file": "result1.xlsx",
+      "sheet": "温度",
+      "rows": 1802,
+      "columns": 22,
+      "last_time_s": 1800.0
+    },
+    {
+      "file": "result1.xlsx",
+      "sheet": "水分浓度",
+      "rows": 1802,
+      "columns": 22,
+      "last_time_s": 1800.0
+    },
+    {
+      "file": "result2.xlsx",
+      "sheet": "温度",
+      "rows": 205813,
+      "columns": 22,
+      "last_time_s": 205810.53125
+    },
+    {
+      "file": "result2.xlsx",
+      "sheet": "水分浓度",
+      "rows": 205813,
+      "columns": 22,
+      "last_time_s": 205810.53125
+    },
+    {
+      "file": "result3.xlsx",
+      "sheet": "Sheet1",
+      "rows": 3433,
+      "columns": 22,
+      "last_time_s": 205810.53125
+    },
+    {
+      "file": "result4.xlsx",
+      "sheet": "Sheet1",
+      "rows": 3052,
+      "columns": 24,
+      "last_time_s": 182967.919921875
+    }
+  ],
+  "numeric_values_compared": 8838954,
+  "max_state_rounding_error": 4.9999986188709045e-05,
+  "source_sha256": "6f48112ba4e60258c0f8991ba59a96386d400b6ce71ad9e5f3ecafacaa8ca1eb",
+  "completed_utc": "2026-09-12T09:54:12.487973+00:00",
+  "verifier_sha256": "4243d43005a94ccd7eda80e1baf6a3bcbe84ccfa4965927dc934c389ed65fcc6",
+  "xlsx_sha256": {
+    "result1.xlsx": "27b2fc977067b2ef4914416d06676cc22667a816f3653dc87a475d27d972ee5d",
+    "result2.xlsx": "bb6302360bf813caad6934792dd6f86330a4977e263ee74814120d9b3d1207db",
+    "result3.xlsx": "35b7ea91ecc6a42b110f5f3edb85cae471760438ffd3fdd446032089da08cd21",
+    "result4.xlsx": "e433857b00a14d586472c75502f97eccdac6f611c81802c054d3e19cb5765d4e"
+  }
+}
